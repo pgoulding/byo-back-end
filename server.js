@@ -1,4 +1,4 @@
-import express from 'express'
+const express = require('express')
 const app = express()
 const cors = require('cors')
 
@@ -11,7 +11,7 @@ app.set('port', process.env.PORT || 3000)
 app.locals.title = 'Cocktails and Dreams'
 
 app.get('/', (request, response) => {
-  response.send('Hi There Ccokctails and Dreams')
+  response.send(`Hi There ${app.locals.title}`)
 })
 
 app.get('/api/v1/drinks', (request, response) => {
