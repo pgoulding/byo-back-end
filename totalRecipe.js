@@ -1,6 +1,5 @@
-export const totalRecipe = [
+const totalRecipe = [
   {
-    "id": "39935b87-6d1e-4531-b5e4-9780d7d5db6d",
     "name": "A1",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -26,66 +25,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1/8 Shot",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "74aa29ad-ee91-42d1-8336-55c71eba9e05",
     "name": "ABC",
     "category": "Shot",
     "glass": "Shot glass",
@@ -106,71 +49,10 @@ export const totalRecipe = [
         "name": "Cognac",
         "amount": "1/3 ",
         "ingDescription": "Cognac (/ˈkɒnjæk/ KON-yak or /ˈkoʊnjæk/ KOHN-yak; French pronunciation: ​[kɔ.ɲak]) is a variety of brandy named after the town of Cognac, France. It is produced in the surrounding wine-growing region in the departments of Charente and Charente-Maritime.\r\n\r\nCognac production falls under French Appellation d'origine contrôlée designation, with production methods and naming required to meet certain legal requirements. Among the specified grapes Ugni blanc, known locally as Saint-Emilion, is most widely used. The brandy must be twice distilled in copper pot stills and aged at least two years in French oak barrels from Limousin or Tronçais. Cognac matures in the same way as whiskies and wine barrel age, and most cognacs spend considerably longer \"on the wood\" than the minimum legal requirement.\r\n\r\nCognac is a type of brandy and, after the distillation and during the aging process, is also called eau de vie. It is produced by doubly distilling white wines produced in any of the designated growing regions."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "644c8a06-99d3-4a32-9c85-c37235a3d014",
     "name": "Ace",
     "category": "Cocktail",
     "glass": "Martini Glass",
@@ -201,61 +83,10 @@ export const totalRecipe = [
         "name": "Egg White",
         "amount": "1/2 Fresh",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2c79bee1-665c-4a80-9c74-335f84d5e943",
     "name": "Adam",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -276,71 +107,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1 tsp ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e4348b04-ca12-42b4-9135-f96383033754",
     "name": "AT&T",
     "category": "Ordinary Drink",
     "glass": "Highball Glass",
@@ -361,71 +131,10 @@ export const totalRecipe = [
         "name": "Tonic water",
         "amount": "4 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e9f80dc3-f35a-4305-bcb0-62fac34aaf79",
     "name": "ACID",
     "category": "Shot",
     "glass": "Shot glass",
@@ -441,76 +150,10 @@ export const totalRecipe = [
         "name": "Wild Turkey",
         "amount": "1 oz ",
         "ingDescription": "Wild Turkey is a brand of Kentucky straight bourbon whiskey distilled and bottled by the Austin Nichols division of Campari Group. The distillery is located near Lawrenceburg, Kentucky, United States. It offers tours, and is part of the American Whiskey Trail and the Kentucky Bourbon Trail.\r\n\r\nIn 1891, Thomas Ripy built the Old Hickory Distillery in Tyrone, Kentucky, near Lawrenceburg, on the former site of the Old Moore Distillery. After Prohibition, the Ripy family (Thomas had died in 1902) repaired the distillery and began to again produce bourbon. The Ripys sold the bourbon produced at this distillery to various wholesalers who bottled bourbon under their own brands. Austin Nichols was one of these wholesalers.\r\n\r\nThe \"Wild Turkey\" brand is said to have arisen after an Austin Nichols executive, Thomas McCarthy, took some warehouse samples on a wild turkey hunting trip in 1940. The bourbon proved so popular among his friends they continued to ask him for \"that wild turkey bourbon.\" Austin Nichols began to bottle Wild Turkey in 1942.\r\n\r\nThe Ripys were bought out in 1949 by Robert and Alvin Gould.\r\n\r\nFor three decades after introducing Wild Turkey, Austin Nichols remained a non-distiller producer—bottling bourbon purchased on the open market under their Wild Turkey brand. Much of this whiskey was purchased from the Ripys/Gould distillery in Tyrone. In 1971, Austin Nichols purchased the facility (then known as the Boulevard Distillery) and changed the name to the Wild Turkey Distillery.\r\n\r\nIn 1980, the distillery and the Wild Turkey brand were purchased by Pernod Ricard.\r\n\r\nOn May 9, 2000, a fire destroyed a seven-story aging warehouse at the company in Anderson County, Kentucky. It contained more than 17,000 wooden barrels of whiskey. Burning whiskey flowed from the warehouse, setting the woods on fire, causing limestone deposits to explode. Firefighters saved Lawrenceburg's water treatment plant from destruction. However, an estimated 20% of the whiskey flowed into the Kentucky River. The river contamination required the temporary shutdown of the water treatment plant. Officials ordered water usage restrictions. Businesses and schools were closed because of the water shortage. The alcohol spill also depleted the oxygen in the river, killing an estimated 228,000 fish along a 66-mile stretch. The EPA and the Coast Guard's Gulf Strike Team aerated the river using equipment mounted on barges.[6] The company paid $256,000 to the Kentucky Department of Fish and Wildlife in an effort to restore the fish population in the river.\r\n\r\nIn 2009, the Campari Group acquired the distillery and the Wild Turkey brand from Pernod Ricard.\r\n\r\nIn 2011, Wild Turkey began to be distilled at a newly constructed facility near the old distillery. The new distillery sits where the old bottling facility was previously located.\r\n\r\nIn 2013, Campari opened a new bottling facility at the Wild Turkey Distillery. For the previous 13 years Wild Turkey had been bottled offsite in Indiana and, later, Arkansas. In addition to the Wild Turkey products, Campari's SKYY vodka is also bottled there after being shipped from the Illinois distillery."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "50d8d3a9-5804-4b86-bbfb-a1bc1ab0a956",
     "name": "A. J.",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -526,76 +169,10 @@ export const totalRecipe = [
         "name": "Grapefruit juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4d6faf94-3001-457e-9f9d-477b6dc05362",
     "name": "Affair",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -621,66 +198,10 @@ export const totalRecipe = [
         "name": "Club soda",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "63c8d520-802a-4633-9df7-44162c5f1f86",
     "name": "Apello",
     "category": "Other/Unknown",
     "glass": "Collins Glass",
@@ -706,66 +227,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "561cff17-ad38-463d-b9af-93cba58d43db",
     "name": "Avalon",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -796,61 +261,10 @@ export const totalRecipe = [
         "name": "Lemonade",
         "amount": "\n",
         "ingDescription": "Lemonade is any of various sweetened beverages found around the world, all characterized by lemon flavour.\r\n\r\nMost lemonade varieties can be separated into two distinct types: cloudy and clear; each is known simply as \"lemonade\" (or a cognate) in countries where dominant. Cloudy lemonade, generally found in North America and India, is a traditionally homemade drink made with lemon juice, water, and sweetener such as cane sugar or honey. Found in the United Kingdom, Ireland, South Africa, Australia, and New Zealand, clear lemonade is a lemon flavoured carbonated soft drink. It should not be confused with Sprite, a lemon-lime flavoured soft drink.\r\n\r\nA popular cloudy variation is pink lemonade, made with added fruit flavours such as raspberry or strawberry among others, giving a distinctive pink color. The \"-ade\" suffix may also be applied to other similar drinks made with different fruits, such as limeade, orangeade, or cherryade. Alcoholic varieties are known as hard lemonade.\r\n\r\nIn many European countries, the French word limonade has come to mean \"soft drink\", regardless of flavour.[citation needed]"
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "fd72681a-4100-40ad-9bd5-8d5c8c2faf72",
     "name": "Abilene",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -871,71 +285,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "3 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f05fbd19-41b6-4e79-86a8-e340157b42e9",
     "name": "Almeria",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -956,71 +309,10 @@ export const totalRecipe = [
         "name": "Egg white",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e868cbdf-aa5d-496a-9b15-bf03d9959964",
     "name": "Addison",
     "category": "Cocktail",
     "glass": "Martini Glass",
@@ -1036,76 +328,10 @@ export const totalRecipe = [
         "name": "Vermouth",
         "amount": "1 1/2 shot ",
         "ingDescription": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;[1][2]) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became popular with bartenders as a key ingredient in many classic cocktails that have survived to date, such as the Martini, the Manhattan, the Rob Roy, and the Negroni. In addition to being consumed as an aperitif or cocktail ingredient, vermouth is sometimes used as an alternative white wine in cooking.\r\n\r\nHistorically, there have been two main types of vermouth: sweet and dry. Responding to demand and competition, vermouth manufacturers have created additional styles, including extra-dry white, sweet white (bianco), red, amber (ambre or rosso), and rosé. Vermouth is produced by starting with a base of a neutral grape wine or unfermented wine must. Each manufacturer adds additional alcohol and a proprietary mixture of dry ingredients, consisting of aromatic herbs, roots, and barks, to the base wine, base wine plus spirit or spirit only – which may be redistilled before adding to the wine or unfermented wine must. After the wine is aromatized and fortified, the vermouth is sweetened with either cane sugar or caramelized sugar, depending on the style. Italian and French companies produce most of the vermouth consumed throughout the world, although the United States and the United Kingdom are also producers."
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "43a9fd34-e6f7-4f49-a56a-1c8b7e87c791",
     "name": "Acapulco",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -1141,56 +367,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": "1 ",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "057bd303-1ecb-42e4-8095-882634546a9c",
     "name": "Affinity",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1216,66 +396,10 @@ export const totalRecipe = [
         "name": "Orange bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d2d1fde3-fe5b-4758-95ce-47cbb33f25e3",
     "name": "Applecar",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1296,71 +420,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "89aaf128-ef6e-470f-b91b-844156aa98d4",
     "name": "Aviation",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -1381,71 +444,10 @@ export const totalRecipe = [
         "name": "maraschino liqueur",
         "amount": "1.5 cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e026ecd4-8815-4f49-a4b7-a341a1fa790a",
     "name": "Alexander",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1471,66 +473,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "78daa66c-09e7-4d87-90e8-7bd4330d89b0",
     "name": "Algonquin",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1551,71 +497,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9fcf4fd4-6d02-4dd5-8b4b-1a559d09a819",
     "name": "Allegheny",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1646,61 +531,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "95fa1adb-9bb8-4205-a759-ae5ed4cda476",
     "name": "Artillery",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -1721,71 +555,10 @@ export const totalRecipe = [
         "name": "Bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8b7adf8c-5571-4664-b51a-264cef8f5157",
     "name": "Afterglow",
     "category": "Cocktail",
     "glass": "Highball Glass",
@@ -1806,71 +579,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "4 parts ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7fa44364-ffed-4dbe-bce4-63efb3c4afa7",
     "name": "Autodafé",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -1891,71 +603,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "040ca3ed-b4c2-4f5e-9d00-3554e927b72f",
     "name": "Afternoon",
     "category": "Coffee / Tea",
     "glass": "Collins Glass",
@@ -1986,61 +637,10 @@ export const totalRecipe = [
         "name": "Cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d3f8d50e-040d-4e55-ad12-2114c020052a",
     "name": "After sex",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -2061,71 +661,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5068cb66-25d7-4b6b-8565-56a6419ea9b1",
     "name": "B-53",
     "category": "Shot",
     "glass": "Collins Glass",
@@ -2146,71 +685,10 @@ export const totalRecipe = [
         "name": "Grand Marnier",
         "amount": "1/3 shot ",
         "ingDescription": "Grand Marnier (French pronunciation: ​[ɡʁɑ̃ maʁnje]) Cordon Rouge is an orange-flavored liqueur created in 1880 by Alexandre Marnier-Lapostolle. It is made from a blend of Cognac brandy, distilled essence of bitter orange, and sugar. Grand Marnier Cordon Rouge is 40% alcohol (70 Proof in UK, 80 Proof in US). Aside from Cordon Rouge, the Grand Marnier line includes other liqueurs, most of which can be consumed \"neat\" as a cordial or a digestif, and can be used in mixed drinks and desserts. In France this kind of use is the most popular, especially with Crêpes Suzette and \"crêpes au Grand Marnier\". César Ritz (1850–1918) reportedly came up with the name \"Grand Marnier\" for Marnier-Lapostolle, who in return helped him purchase and establish the Hotel Ritz Paris. On March 15, 2016, the Campari Group announced the launch of a friendly takeover offer for Société des Produits Marnier Lapostolle S.A., owner of Grand Marnier."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7cc4f6a5-1fa3-42de-b62f-a0bbfc782747",
     "name": "B-52",
     "category": "Shot",
     "glass": "Shot glass",
@@ -2231,71 +709,10 @@ export const totalRecipe = [
         "name": "Kahlua",
         "amount": "1/4 ",
         "ingDescription": "Kahlúa is a coffee-flavored liqueur from Mexico. The drink contains rum, sugar, vanilla bean, and Arabica coffee.\r\n\r\nPedro Domecq began producing Kahlúa in 1936. It was named Kahlúa, meaning \"House of the Acolhua people\" in the Veracruz Nahuatl language spoken before the Spanish Conquest. Kahlúa was Hispanicized as Ulúa, forming the name of the modern San Juan de Ulúa fortress.\r\n\r\nThe company merged in 1994 with Allied Lyons to become Allied Domecq. In turn, that company was partially acquired in 2005 by Pernod Ricard, the largest spirits distributor in the world since its merger with the Swedish Vin & Sprit in March 2008.\r\n\r\nSince 2004, the alcohol content of Kahlúa is 20.0%; earlier versions had 26.5%. In 2002, a more expensive, high-end product called \"Kahlúa Especial\" became available in the United States, Canada and Australia after previously being offered only in duty-free markets. Made with premium Arabica coffee beans grown in Veracruz, Mexico, Kahlúa Especial has an alcohol content of 36%, has a lower viscosity, and is less sweet than the regular version."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c8eb7d2a-d02f-44f6-9cc0-1572076bc056",
     "name": "Bijou",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -2321,66 +738,10 @@ export const totalRecipe = [
         "name": "Sweet Vermouth",
         "amount": "1 oz",
         "ingDescription": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became popular with bartenders as a key ingredient in many classic cocktails that have survived to date, such as the Martini, the Manhattan, the Rob Roy, and the Negroni. In addition to being consumed as an aperitif or cocktail ingredient, vermouth is sometimes used as an alternative white wine in cooking.\r\n\r\nHistorically, there have been two main types of vermouth: sweet and dry. Responding to demand and competition, vermouth manufacturers have created additional styles, including extra-dry white, sweet white (bianco), red, amber (ambre or rosso), and rosé. Vermouth is produced by starting with a base of a neutral grape wine or unfermented wine must. Each manufacturer adds additional alcohol and a proprietary mixture of dry ingredients, consisting of aromatic herbs, roots, and barks, to the base wine, base wine plus spirit or spirit only – which may be redistilled before adding to the wine or unfermented wine must. After the wine is aromatized and fortified, the vermouth is sweetened with either cane sugar or caramelized sugar, depending on the style. Italian and French companies produce most of the vermouth consumed throughout the world, although the United States and the United Kingdom are also producers."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "109d29b9-eebd-4e00-a006-1b9e842e70d7",
     "name": "Boxcar",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -2411,61 +772,10 @@ export const totalRecipe = [
         "name": "Egg white",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d7a7ae00-c20a-4d71-80ff-106697d73daf",
     "name": "Big Red",
     "category": "Shot",
     "glass": "Shot glass",
@@ -2481,76 +791,10 @@ export const totalRecipe = [
         "name": "Goldschlager",
         "amount": "1/2 oz ",
         "ingDescription": "Goldschläger is a Swiss cinnamon schnapps (43.5% alcohol by volume or 87 proof; originally it was 53.5% alcohol or 107 proof),[1] a liqueur with very thin, yet visible flakes of gold floating in it. The actual amount of gold has been measured at approximately 13 mg in a 1-Litre bottle of Goldschläger.[2] As of July 2016 this amounts to €0.55 EUR or lower on the international gold market.[3]\r\n\r\nGoldschläger was produced in Switzerland until the 1990s, when the brand was acquired by Diageo, which continued production of Goldschläger schnapps in Italy.[1] Since 2008 it is a brand of Global Brands[4] and produced in Switzerland again.[5] The German word Goldschläger (\"gold beater\"[6]) designates the profession of gold leaf makers, who beat bars of gold into micrometre-thin sheets."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b0d0fc38-bf5c-4e3b-b806-58efbe28ab90",
     "name": "Bellini",
     "category": "Ordinary Drink",
     "glass": "Champagne Flute",
@@ -2566,76 +810,10 @@ export const totalRecipe = [
         "name": "Peach schnapps",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "83a64f68-731e-494f-a8c6-d946987e037b",
     "name": "Bramble",
     "category": "Ordinary Drink",
     "glass": "Old-Fashioned glass",
@@ -2661,66 +839,10 @@ export const totalRecipe = [
         "name": "Creme de Mure",
         "amount": "1.5 cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5f26f947-02d9-4764-9ef7-447df528769a",
     "name": "Balmoral",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -2746,66 +868,10 @@ export const totalRecipe = [
         "name": "Bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "aa7e95d6-3823-491a-a951-eb74b0c1fa34",
     "name": "Bluebird",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -2841,56 +907,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f9973310-e023-4d41-955d-2bdffe5ab263",
     "name": "Boomerang",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -2921,61 +941,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b1a83163-1bd5-4a90-aa5a-38df006eb59a",
     "name": "Bora Bora",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -3001,66 +970,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1 cl ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "108c5304-7397-4339-8142-8735b558c5bb",
     "name": "Barracuda",
     "category": "Ordinary Drink",
     "glass": "Margarita glass",
@@ -3091,61 +1004,10 @@ export const totalRecipe = [
         "name": "Prosecco",
         "amount": "top up ",
         "ingDescription": "Prosecco (/prəˈsɛkoʊ, proʊ-/, Italian: [proˈsekko]) is an Italian white wine. Prosecco DOC can be spumante (\"sparkling wine\"), frizzante (\"semi-sparkling wine\"), or tranquillo (\"still wine\"). It is made from Glera grapes, formerly known also as Prosecco, but other grape varieties may be included. The following varieties are traditionally used with Glera up to a maximum of 15% of the total: Verdiso, Bianchetta Trevigiana, Perera, Glera lunga, Chardonnay, Pinot Bianco, Pinot Grigio and Pinot Nero.\r\n\r\nThe name is derived from that of the Italian village of Prosecco near Trieste, where the grape and wine originated from.\r\n\r\nProsecco DOC is produced in nine provinces spanning the Veneto and Friuli Venezia Giulia regions. Prosecco Superiore DOCG comes in two varieties: Prosecco Conegliano Valdobbiadene Superiore DOCG, which can only be made in the Treviso province of Veneto on the hills between the towns of Conegliano and Valdobbiadene (north of Treviso), and the smaller Asolo Prosecco Superiore DOCG, produced near the town of Asolo.\r\n\r\nProsecco is the main ingredient of the Bellini cocktail and can be a less expensive substitute for Champagne. It is also a key ingredient of spritz, a cocktail popular in northern Italy."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d238c8e5-fef7-4049-ba5e-e6f813f7a361",
     "name": "Buccaneer",
     "category": "Beer",
     "glass": "Beer pilsner",
@@ -3161,76 +1023,10 @@ export const totalRecipe = [
         "name": "Bacardi Limon",
         "amount": "1 shot ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0e51056b-dba9-4475-8ec3-53b676904a23",
     "name": "Brigadier",
     "category": "Cocktail",
     "glass": "Coupe Glass",
@@ -3251,71 +1047,10 @@ export const totalRecipe = [
         "name": "Cherry Heering",
         "amount": "1 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2e032a00-1bac-43f1-a8ff-c90ecfa08654",
     "name": "Blackthorn",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -3336,71 +1071,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "47a0101d-4284-4908-90a3-54fbd5e01a73",
     "name": "Bob Marley",
     "category": "Shot",
     "glass": "Shot glass",
@@ -3421,71 +1095,10 @@ export const totalRecipe = [
         "name": "Goldschlager",
         "amount": "1/2 oz ",
         "ingDescription": "Goldschläger is a Swiss cinnamon schnapps (43.5% alcohol by volume or 87 proof; originally it was 53.5% alcohol or 107 proof),[1] a liqueur with very thin, yet visible flakes of gold floating in it. The actual amount of gold has been measured at approximately 13 mg in a 1-Litre bottle of Goldschläger.[2] As of July 2016 this amounts to €0.55 EUR or lower on the international gold market.[3]\r\n\r\nGoldschläger was produced in Switzerland until the 1990s, when the brand was acquired by Diageo, which continued production of Goldschläger schnapps in Italy.[1] Since 2008 it is a brand of Global Brands[4] and produced in Switzerland again.[5] The German word Goldschläger (\"gold beater\"[6]) designates the profession of gold leaf makers, who beat bars of gold into micrometre-thin sheets."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ca1e29d2-3602-4c6e-b00f-59e3f5915e79",
     "name": "Bubble Gum",
     "category": "Shot",
     "glass": "Shot glass",
@@ -3511,66 +1124,10 @@ export const totalRecipe = [
         "name": "Peach schnapps",
         "amount": "1/4 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "cbde9850-2bfd-4d4d-99ea-271e6f350a3d",
     "name": "Bible Belt",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -3596,66 +1153,10 @@ export const totalRecipe = [
         "name": "Sour mix",
         "amount": "2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "efc67db4-09e4-4e26-aaa6-a17793227c7b",
     "name": "Brain Fart",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -3691,56 +1192,10 @@ export const totalRecipe = [
         "name": "Rum",
         "amount": "1 pint ",
         "ingDescription": "Rum is a distilled alcoholic beverage made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.\r\n\r\nThe majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Scotland, Austria, Spain, Australia, New Zealand, Fiji, the Philippines, India, Reunion Island, Mauritius, South Africa, Taiwan, Thailand, Japan, the United States, and Canada.\r\n\r\nRums are produced in various grades. Light rums are commonly used in cocktails, whereas \"golden\" and \"dark\" rums were typically consumed straight or neat, on the rocks, or used for cooking, but are now commonly consumed with mixers. Premium rums are also available, made to be consumed either straight or iced.\r\n\r\nRum plays a part in the culture of most islands of the West Indies as well as in The Maritimes and Newfoundland. This beverage has famous associations with the Royal Navy (where it was mixed with water or beer to make grog) and piracy (where it was consumed as bumbo). Rum has also served as a popular medium of economic exchange, used to help fund enterprises such as slavery (see Triangular trade), organized crime, and military insurgencies (e.g., the American Revolution and Australia's Rum Rebellion).\r\n\r\nThe precursors to rum date back to antiquity. Development of fermented drinks produced from sugarcane juice is believed to have first occurred either in ancient India or in China, and to have spread from there. An example of such an early drink is brum. Produced by the Malay people, brum dates back thousands of years. Marco Polo also recorded a 14th-century account of a \"very good wine of sugar\" that was offered to him in the area that became modern-day Iran.\r\n\r\nThe first distillation of rum took place on the sugarcane plantations of the Caribbean in the 17th century. Plantation slaves first discovered molasses, a byproduct of the sugar refining process, could be fermented into alcohol. Later, distillation of these alcoholic byproducts concentrated the alcohol and removed impurities, producing the first true rums. Tradition suggests rum first originated on the island of Barbados. However, in the decade of the 1620s, rum production was recorded in Brazil. A liquid identified as rum has been found in a tin bottle found on the Swedish warship Vasa, which sank in 1628.\r\n\r\nA 1651 document from Barbados stated, \"The chief fuddling they make in the island is Rumbullion, alias Kill-Divil, and thi is made of sugar canes distilled, a hot, hellish, and terrible liquor.\""
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ed659650-2230-4424-b4fb-cd1a08aef3d6",
     "name": "Bloody Mary",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -3776,56 +1231,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "1 wedge ",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a23db862-4a79-4efb-920f-6ffb656637d9",
     "name": "Blue Lagoon",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -3851,66 +1260,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4c2f2c94-9c45-4e66-9375-68047bec28c6",
     "name": "Boston Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -3946,56 +1299,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c8ce6be5-960c-4652-bf32-88652c065077",
     "name": "Brandy Flip",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -4026,61 +1333,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "1/8 tsp grated ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e2b263d1-149b-4d83-a438-aed9f5444fd8",
     "name": "Brandy Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -4111,61 +1367,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9d65a446-d335-4381-bf99-5182f1b9588e",
     "name": "Black & Tan",
     "category": "Beer",
     "glass": "Pint glass",
@@ -4181,76 +1386,10 @@ export const totalRecipe = [
         "name": "Guinness stout",
         "amount": "1 part ",
         "ingDescription": "Guinness (/ˈɡɪnɪs/) is an Irish dry stout that originated in the brewery of Arthur Guinness (1725–1803) at St. James's Gate brewery in the capital city of Dublin, Ireland. Guinness, produced by the Diageo beverages company, is one of the most successful beer brands worldwide. It is brewed in almost 50 countries and is available in over 120. Annual sales total of Guinness in 2011 was 850 million litres (220,000,000 US gal).\r\n\r\nGuinness features a burnt flavour that is derived from malted barley and roasted unmalted barley. The use of roasted barley is a relatively modern development, not becoming part of the grist until the mid-20th century. For many years, a portion of aged brew was blended with freshly brewed beer to give a sharp lactic flavour. Although Guinness's palate still features a characteristic \"tang\", the company has refused to confirm whether this type of blending still occurs. The draught beer's thick, creamy head comes from mixing the beer with nitrogen and carbon dioxide when poured. It is popular with the Irish, both in Ireland and abroad. In spite of declining consumption since 2001, it is still the best-selling alcoholic drink in Ireland where Guinness & Co. Brewery makes almost €2 billion worth of the beverage annually.\r\n\r\nThe company was started in 1759 in Dublin, but had to move its headquarters to London at the beginning of the Anglo-Irish Trade War in 1932. In 1997, Guinness plc merged with Grand Metropolitan to form the multinational alcoholic drinks producer Diageo."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7e71c016-bfbb-4eca-bf42-e803e980330a",
     "name": "Casino",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -4281,61 +1420,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e6e864ef-ed41-46f0-924a-fe6b63aa4091",
     "name": "Caipirinha",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -4356,71 +1444,10 @@ export const totalRecipe = [
         "name": "Cachaca",
         "amount": "2 1/2 oz ",
         "ingDescription": "Cachaça (Portuguese pronunciation: [kaˈʃasɐ]) is a distilled spirit made from fermented sugarcane juice. Also known as aguardente, pinga, caninha and other names, it is the most popular distilled alcoholic beverage in Brazil. Outside Brazil, cachaça is used almost exclusively as an ingredient in tropical drinks, with the caipirinha being the most famous cocktail.\r\n\r\nSugar production was mostly switched from the Madeira islands to Brazil by the Portuguese in the 16th century. In Madeira, aguardente de cana is made by distilling sugar cane liquors and the pot stills from Madeira were brought to Brazil to make what today is also called cachaça.\r\n\r\nThe process dates from 1532, when one of the Portuguese colonisers brought the first cuttings of sugar cane to Brazil from Madeira. Cachaça is mostly produced in Brazil, where, according to 2007 figures, 1,500,000,000 litres (396,000,000 US gal; 330,000,000 imp gal) are consumed annually, compared with 15,000,000 litres (3,960,000 US gal; 3,300,000 imp gal) outside the country. It is typically between 38% and 48% alcohol by volume. When homemade, it can be as strong as the distiller wants. Up to six grams per litre of sugar may be added.\r\n\r\nFigures from 2003 indicate 1.3 billion litres of cachaça are produced each year; only 1% of this is exported (mainly to Germany).\r\n\r\nCachaça, like rum, has two varieties: unaged (Portuguese: branca, \"white\" or prata, \"silver\") and aged (amarela, \"yellow\" or ouro, \"gold\"). White cachaça is usually bottled immediately after distillation and tends to be cheaper (some producers age it for up to 12 months in wooden barrels to achieve a smoother blend). It is often used as an ingredient in caipirinha and other beverages. Dark cachaça, usually seen as the \"premium\" variety, is aged in wood barrels and is meant to be drunk straight (it is usually aged for up to 3 years though some \"ultra premium\" cachaças have been aged for up to 15 years). Its flavour is influenced by the type of wood the barrel is made from.\r\n\r\nThere are very important regions in Brazil where fine pot still cachaça is produced such as Chã Grande in Pernambuco state, Salinas in Minas Gerais state, Paraty in Rio de Janeiro state, Monte Alegre do Sul in São Paulo state and Abaíra in Bahia state. Nowadays, producers of cachaça can be found in most Brazilian regions and in 2011 there were over 40,000 of them."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2ce2aaa5-6231-4dfa-a60f-d10eb1faf5c3",
     "name": "Cherry Rum",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -4441,71 +1468,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e8de0a18-ced4-4bc4-8468-3bbcebbe90a6",
     "name": "Cuba Libre",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -4526,71 +1492,10 @@ export const totalRecipe = [
         "name": "Coca-Cola",
         "amount": "",
         "ingDescription": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.\r\n\r\nThe Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical 12-US-fluid-ounce (350 ml) can contains 38 grams (1.3 oz) of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.\r\n\r\nThe Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Based on Interbrand's \"best global brand\" study of 2015, Coca-Cola was the world's third most valuable brand, after Apple and Google. In 2013, Coke products were sold in over 200 countries worldwide, with consumers downing more than 1.8 billion company beverage servings each day."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "91a75fe2-1149-4d60-b965-9bc19e86ac67",
     "name": "Cuba Libra",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -4616,66 +1521,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f3a73622-4785-4e7a-9f9f-a5f6fda407fa",
     "name": "Cafe Savoy",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -4701,66 +1550,10 @@ export const totalRecipe = [
         "name": "Brandy",
         "amount": " ",
         "ingDescription": "Brandy is a spirit produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically taken as an after-dinner drink. Some brandies are aged in wooden casks, some are coloured with caramel colouring to imitate the effect of aging, and some brandies are produced using a combination of both aging and colouring.\r\n\r\nIn broader sense, the term \"brandy\" also denotes liquors obtained from distillation of pomace (pomace brandy) or mash or wine of any other fruit (fruit brandy). These products are also named eaux-de-vie.\r\n\r\nVarieties of wine brandy can be found across the winemaking world. Among the most renowned are Cognac and Armagnac from southwestern France.\r\n\r\nThe origins of brandy were clearly tied to the development of distillation. While the process was known in classical times, it wasn't used for significant beverage production until the 15th century.\r\n\r\nInitially wine was distilled as a preservation method and as a way to make it easier for merchants to transport. It is also thought that wine was originally distilled to lessen the tax which was assessed by volume. The intent was to add the water removed by distillation back to the brandy shortly before consumption. It was discovered that after having been stored in wooden casks, the resulting product had improved over the original distilled spirit. In addition to removing water, the distillation process led to the formation and decomposition of numerous aromatic compounds, fundamentally altering the composition of the distillate from its source. Non-volatile substances such as pigments, sugars, and salts remained behind in the still. As a result, the taste of the distillate was often quite unlike that of the original source.\r\n\r\nAs described in the 1728 edition of Cyclopaedia, the following method was used to distill brandy:\r\n\r\nA cucurbit was filled half full of the liquor from which brandy was to be drawn and then raised with a little fire until about one sixth part was distilled, or until that which falls into the receiver was entirely flammable. This liquor, distilled only once, was called spirit of wine or brandy. Purified by another distillation (or several more), this was then called spirit of wine rectified. The second distillation was made in balneo mariae and in a glass cucurbit, and the liquor was distilled to about one half the quantity. This was further rectified—as long as the operator thought necessary—to produce brandy.\r\n\r\nTo shorten these several distillations, which were long and troublesome, a chemical instrument was invented that reduced them to a single distillation. To test the purity of the rectified spirit of wine, a portion was ignited. If the entire contents were consumed by a fire without leaving any impurities behind, then the liquor was good. Another, better test involved putting a little gunpowder in the bottom of the spirit. If the gunpowder could ignite after the spirit was consumed by fire, then the liquor was good.\r\n\r\nAs most brandies have been distilled from grapes, the regions of the world producing excellent brandies have roughly paralleled those areas producing grapes for viniculture. At the end of the 19th century, the western European markets, including by extension their overseas empires, were dominated by French and Spanish brandies and eastern Europe was dominated by brandies from the Black Sea region, including Bulgaria, the Crimea, and Georgia. In 1884, David Sarajishvili founded his brandy factory in Tbilisi, Georgia, a crossroads for Turkish, Central Asian, and Persian trade routes and a part of the Russian Empire at the time. Armenian and Georgian brandies, called cognacs in the era, were considered some of the best in the world and often beat their French competitors at the International Expositions in Paris and Brussels in the early 1900s.[citation needed] The storehouses of the Romanov Court in St. Petersburg were regarded as the largest collections of cognacs and wines in the world with much of it from the Transcaucasus region of Georgia. During the October Revolution of 1917, upon the storming of the Winter Palace, the Bolshevik Revolution actually paused for a week or so as the participants gorged on the substantial stores of cognac and wines. The Russian market was always a huge brandy-consuming region in which home-grown varieties were common but much of it was imported. The patterns of bottles followed that of the western European norm. Throughout the Soviet era, the production of brandy was a source of pride for the communist regime as they continued to produce some excellent varieties, especially the most famous Jubilee Brandies of 1967, 1977, and 1987.[citation needed] Remaining bottles of these productions are highly sought after, not simply for their quality, but for their historical significance."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6054cfa8-3dc8-47b7-8daf-d749b29ea8a9",
     "name": "Cream Soda",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -4776,76 +1569,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "96e0809f-036c-4e2e-8e46-abcf0ba4a519",
     "name": "Corn n Oil",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -4876,61 +1603,10 @@ export const totalRecipe = [
         "name": "blackstrap rum",
         "amount": "1 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "844afada-975b-4038-acd5-ad99f5080c2b",
     "name": "Casa Blanca",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -4956,66 +1632,10 @@ export const totalRecipe = [
         "name": "Maraschino liqueur",
         "amount": "1 1/2 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e657f3fb-fd54-4b1b-aedb-ca4892a85772",
     "name": "Clover Club",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -5041,66 +1661,10 @@ export const totalRecipe = [
         "name": "Egg white",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "98937a95-c62a-49f5-a682-5f59b0cbfbab",
     "name": "Citrus Coke",
     "category": "Soft Drink / Soda",
     "glass": "Highball Glass",
@@ -5116,76 +1680,10 @@ export const totalRecipe = [
         "name": "Coca-Cola",
         "amount": "2 parts ",
         "ingDescription": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.\r\n\r\nThe Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical 12-US-fluid-ounce (350 ml) can contains 38 grams (1.3 oz) of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.\r\n\r\nThe Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Based on Interbrand's \"best global brand\" study of 2015, Coca-Cola was the world's third most valuable brand, after Apple and Google. In 2013, Coke products were sold in over 200 countries worldwide, with consumers downing more than 1.8 billion company beverage servings each day."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "977ef696-475d-4793-bbac-74f4f4c4c50a",
     "name": "Chicago Fizz",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -5221,56 +1719,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d50de952-aa80-4a30-a0aa-1b0edbc6eee3",
     "name": "City Slicker",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -5291,71 +1743,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5c64cf49-c53f-4c08-b01b-bbcbbaefa6a1",
     "name": "Coffee-Vodka",
     "category": "Homemade Liqueur",
     "glass": "Collins Glass",
@@ -5391,56 +1782,10 @@ export const totalRecipe = [
         "name": "Caramel coloring",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "926ae47b-5476-47a3-b2ef-8c376be4cdfb",
     "name": "Caipirissima",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -5466,66 +1811,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "crushed ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "47440053-6307-45ff-a7d0-ca4995bc1061",
     "name": "Campari Beer",
     "category": "Beer",
     "glass": "Beer mug",
@@ -5541,76 +1830,10 @@ export const totalRecipe = [
         "name": "Campari",
         "amount": "1 1/2 cl ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3a251acc-84ce-421d-af87-cfd6bb90dbdd",
     "name": "Cosmopolitan",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -5636,66 +1859,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "1/4 cup ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d4d6e954-f0cd-4763-beb3-749b5b06ba5e",
     "name": "Casino Royale",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -5726,61 +1893,10 @@ export const totalRecipe = [
         "name": "Egg yolk",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "02f8ee16-6f3c-4ce1-bc05-9855a4afa56f",
     "name": "Clove Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -5801,71 +1917,10 @@ export const totalRecipe = [
         "name": "Wine",
         "amount": "1/2 oz Muscatel ",
         "ingDescription": "Wine (from Latin vinum) is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients.\r\n\r\nYeast consumes the sugar in the grapes and converts it to ethanol and carbon dioxide. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the terroir, and the production process. Many countries enact legal appellations intended to define styles and qualities of wine. These typically restrict the geographical origin and permitted varieties of grapes, as well as other aspects of wine production. Wines not made from grapes include rice wine and fruit wines such as plum, cherry, pomegranate and elderberry.\r\n\r\nWine has been produced for thousands of years. The earliest known traces of wine are from China (c. 7000 BC), Georgia (c. 6000 BC), Iran (c. 5000 BC), and Sicily (c. 4000 BC). The earliest known winery is the 6,100-year-old Areni-1 winery in Armenia. Wine reached the Balkans by 4500 BC and was consumed and celebrated in ancient Greece, Thrace and Rome. Throughout history, wine has been consumed for its intoxicating effects.\r\n\r\nWine has long played an important role in religion. Red wine was associated with blood by the ancient Egyptians and was used by both the Greek cult of Dionysus and the Romans in their Bacchanalia; Judaism also incorporates it in the Kiddush and Christianity in the Eucharist."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1575be28-f0d9-45f1-b407-a904697d6d70",
     "name": "Coffee Liqueur",
     "category": "Homemade Liqueur",
     "glass": "Collins Glass",
@@ -5896,61 +1951,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "2 1/2 cups ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5197352f-8f6b-4d89-894f-afd2fc05e00f",
     "name": "Chocolate Milk",
     "category": "Shot",
     "glass": "Shot Glass",
@@ -5971,71 +1975,10 @@ export const totalRecipe = [
         "name": "Amaretto",
         "amount": "1 dash ",
         "ingDescription": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", which references the distinctive flavour lent by the mandorla amara (the bitter almond) or by the drupe kernel. However, the bitterness of amaretto tends to be mild, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products. Thus one can interpret the liqueur's name as a description of the taste as \"a little bitter\". Cyanide is processed out of the almond preparation prior to its use.\r\n\r\nConflation of amaro (\"bitter\") and amore (\"love\") has led to associations with romance.\r\n\r\nOne should not confuse amaretto with amaro, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour derived from herbs."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f3c08144-08e8-4646-8800-d54ec1631ec4",
     "name": "Coke and Drops",
     "category": "Soft Drink / Soda",
     "glass": "Cocktail glass",
@@ -6051,76 +1994,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "7 drops ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ac9370f0-a73f-46d9-8400-8630b881a28e",
     "name": "Chocolate Drink",
     "category": "Cocoa",
     "glass": "Coffee mug",
@@ -6141,71 +2018,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "15357ff1-1478-455b-b312-f67c8696d6a6",
     "name": "Creme de Menthe",
     "category": "Homemade Liqueur",
     "glass": "Collins Glass",
@@ -6236,61 +2052,10 @@ export const totalRecipe = [
         "name": "Food coloring",
         "amount": "1 tblsp green ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0e991fc2-be6d-4d3b-aeab-2ab7ca1d28c9",
     "name": "Cranberry Punch",
     "category": "Punch / Party Drink",
     "glass": "Punch Bowl",
@@ -6321,61 +2086,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": "2 qt ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c3bd61cd-5dee-486d-8fe6-329d61dcd535",
     "name": "Derby",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -6396,71 +2110,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": "2 Fresh leaves",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1e9b6885-1a9d-4621-85f9-06bba9fdc437",
     "name": "Diesel",
     "category": "Beer",
     "glass": "Pint glass",
@@ -6481,71 +2134,10 @@ export const totalRecipe = [
         "name": "Blackcurrant cordial",
         "amount": "1 dash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6c30d77a-b455-4147-920d-710261467c7b",
     "name": "Daiquiri",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -6566,71 +2158,10 @@ export const totalRecipe = [
         "name": "Powdered sugar",
         "amount": "1 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a1f04146-864e-4dc1-a9d1-0e524ac6da8c",
     "name": "Danbooka",
     "category": "Coffee / Tea",
     "glass": "Coffee Mug",
@@ -6646,76 +2177,10 @@ export const totalRecipe = [
         "name": "Everclear",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ca5114ba-e5e6-4877-8f05-8dc7f14bc52c",
     "name": "Dragonfly",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -6736,71 +2201,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "1 ",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ab9eb871-a717-43fc-8fa1-18d8d139fde3",
     "name": "Downshift",
     "category": "Punch / Party Drink",
     "glass": "Hurricane glass",
@@ -6826,66 +2230,10 @@ export const totalRecipe = [
         "name": "151 proof rum",
         "amount": "Float Bacardi ",
         "ingDescription": "Bacardi 151 is a brand of highly alcoholic rum made by Bacardi Limited of Hamilton, Bermuda. It is named for its alcohol proof level of 151, that is, 75.5% alcohol by volume. This is much higher than typical rum at 35%–40%. Bacardi 151 has been sold in the US since at least 1981.\r\n\r\nAs with all high-alcohol beverages, Bacardi 151 is flammable. Bacardi 151 has multiple warnings on the label of the bottle stating that it should not be ignited or exposed to an open flame. Bottles are also equipped with a stainless steel flame arrester crimped onto the neck of the bottle to prevent the rum inside the bottle from igniting, in case a consumer ignores the warnings and applies the rum to a source of ignition (e.g. a flaming pan or dish, a flambé). Despite the warnings against ignition and the flame arrester, consumers have claimed to have been burned by people who ignored repeated warnings, removed the flame arrester, and exposed the bottle to an open flame.\r\n\r\nBacardi 151 is typically used in sweet drinks, such as the Hurricane and Caribou Lou, which combine rum and fruit juices.\r\n\r\nIn Germany, Bacardi 151 is frequently used to prepare Feuerzangenbowle, a traditional German alcoholic drink.\r\n\r\nDuring the Goldfield Ashes, Charters Towers, Bacardi 151 has been known to be the 'fine' of choice for visiting teams...causing significant performance issues the next day, and even the odd vow of sobriety!"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "98a0015b-52ce-4c5b-9d79-79c6cf24c3ce",
     "name": "Dry Rob Roy",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -6906,71 +2254,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8e13ff94-57c8-4c16-ae7d-6965b6968956",
     "name": "Dry Martini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -6991,71 +2278,10 @@ export const totalRecipe = [
         "name": "Olive",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "46202a74-0043-4354-98e3-3a184451d99f",
     "name": "Dirty Nipple",
     "category": "Shot",
     "glass": "Shot glass",
@@ -7076,71 +2302,10 @@ export const totalRecipe = [
         "name": "Bailey's irish cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "73eea063-fc8f-4357-b746-2a38c9ec4801",
     "name": "Dirty Martini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -7171,61 +2336,10 @@ export const totalRecipe = [
         "name": "Olive",
         "amount": "1",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "668c1f7d-ccc2-4ac1-b07f-ce4c101b9b0d",
     "name": "Darkwood Sling",
     "category": "Soft Drink / Soda",
     "glass": "Cocktail glass",
@@ -7251,66 +2365,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bdfbab8f-1fd9-4705-a28b-47c8b8052e61",
     "name": "Dark Caipirinha",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -7331,71 +2389,10 @@ export const totalRecipe = [
         "name": "Cachaca",
         "amount": "2 1/2 oz",
         "ingDescription": "Cachaça (Portuguese pronunciation: [kaˈʃasɐ]) is a distilled spirit made from fermented sugarcane juice. Also known as aguardente, pinga, caninha and other names, it is the most popular distilled alcoholic beverage in Brazil. Outside Brazil, cachaça is used almost exclusively as an ingredient in tropical drinks, with the caipirinha being the most famous cocktail.\r\n\r\nSugar production was mostly switched from the Madeira islands to Brazil by the Portuguese in the 16th century. In Madeira, aguardente de cana is made by distilling sugar cane liquors and the pot stills from Madeira were brought to Brazil to make what today is also called cachaça.\r\n\r\nThe process dates from 1532, when one of the Portuguese colonisers brought the first cuttings of sugar cane to Brazil from Madeira. Cachaça is mostly produced in Brazil, where, according to 2007 figures, 1,500,000,000 litres (396,000,000 US gal; 330,000,000 imp gal) are consumed annually, compared with 15,000,000 litres (3,960,000 US gal; 3,300,000 imp gal) outside the country. It is typically between 38% and 48% alcohol by volume. When homemade, it can be as strong as the distiller wants. Up to six grams per litre of sugar may be added.\r\n\r\nFigures from 2003 indicate 1.3 billion litres of cachaça are produced each year; only 1% of this is exported (mainly to Germany).\r\n\r\nCachaça, like rum, has two varieties: unaged (Portuguese: branca, \"white\" or prata, \"silver\") and aged (amarela, \"yellow\" or ouro, \"gold\"). White cachaça is usually bottled immediately after distillation and tends to be cheaper (some producers age it for up to 12 months in wooden barrels to achieve a smoother blend). It is often used as an ingredient in caipirinha and other beverages. Dark cachaça, usually seen as the \"premium\" variety, is aged in wood barrels and is meant to be drunk straight (it is usually aged for up to 3 years though some \"ultra premium\" cachaças have been aged for up to 15 years). Its flavour is influenced by the type of wood the barrel is made from.\r\n\r\nThere are very important regions in Brazil where fine pot still cachaça is produced such as Chã Grande in Pernambuco state, Salinas in Minas Gerais state, Paraty in Rio de Janeiro state, Monte Alegre do Sul in São Paulo state and Abaíra in Bahia state. Nowadays, producers of cachaça can be found in most Brazilian regions and in 2011 there were over 40,000 of them."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bbb02282-b394-4afa-bbca-934728d60712",
     "name": "Duchamp's Punch",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -7436,51 +2433,10 @@ export const totalRecipe = [
         "name": "Lavender",
         "amount": "2 sprigs",
         "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "63b144a9-3f42-4d32-8182-61c7fb7eb4f0",
     "name": "Dark and Stormy",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -7496,76 +2452,10 @@ export const totalRecipe = [
         "name": "Ginger Beer",
         "amount": "10 cl",
         "ingDescription": "Ginger ale is a carbonated soft drink flavoured with ginger in one of two ways. The golden style is credited to the American doctor Thomas Cantrell. The dry style (also called the pale style) is a paler drink with a much milder ginger flavour, and was created by Canadian John McLaughlin.\r\n\r\nThomas Cantrell, an American apothecary and surgeon, claimed to have invented ginger ale in Belfast, Northern Ireland, and marketed it with local beverage manufacturer Grattan and Company. Grattan embossed the slogan \"The Original Makers of Ginger Ale\" on its bottles. This was the older style Golden ginger ale, dark coloured, generally sweet to taste, with a strong ginger spice flavour. Ginger ale is clear; ginger beer is often cloudy due to the residues of brewing, and has a stronger ginger taste.\r\n\r\nDry ginger ale is recognized as a Canadian creation by John McLaughlin, a chemist and pharmacist. Having established a soda water bottling plant in 1890, McLaughlin began developing flavour extracts to add to the water in 1904. That year, he introduced \"Pale Dry Ginger Ale\", the bubbly libation that would be patented in 1907 as \"Canada Dry Ginger Ale\". An instant success, Canada Dry products were accepted by appointment to the Vice-Regal Household of the Governor General of Canada. The dry-style also became popular in the United States during the Prohibition era, when it was used as a mixer for alcoholic beverages. Dry ginger ale quickly surpassed golden ginger ale in popularity. Today, golden ginger ale is an uncommon, more regional drink exemplified by Vernors. By contrast, dry ginger ale is produced on a large scale internationally, and is a staple in supermarkets and bars, and on airlines."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2f7eb9fe-2943-4879-aff3-f3c880bf4ecf",
     "name": "Damned if you do",
     "category": "Shot",
     "glass": "Shot glass",
@@ -7581,76 +2471,10 @@ export const totalRecipe = [
         "name": "Hot Damn",
         "amount": "0.25 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4a00bc01-2c43-4087-a04e-93b8f6568219",
     "name": "Dubonnet Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -7676,66 +2500,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "281bd3e3-8bd6-4350-85d2-0cc29c863120",
     "name": "Drinking Chocolate",
     "category": "Cocoa",
     "glass": "Coffee mug",
@@ -7771,56 +2539,10 @@ export const totalRecipe = [
         "name": "Whipped cream",
         "amount": "Fresh ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d19c4e04-9003-4347-8b41-dc0f0ce3a936",
     "name": "Egg Cream",
     "category": "Other/Unknown",
     "glass": "Coffee mug",
@@ -7841,71 +2563,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "6 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c50266f2-5d95-4514-b02d-c12ff329ff7a",
     "name": "Egg Nog #4",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -7966,31 +2627,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "Ground ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1e2cdc09-22a7-496f-9b85-890b0198ce30",
     "name": "English Highball",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -8021,61 +2661,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c3631f86-ed54-41b6-9ed3-3802f48e14bb",
     "name": "Espresso Martini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -8096,71 +2685,10 @@ export const totalRecipe = [
         "name": "Sugar syrup",
         "amount": "1 dash",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "89d3555c-7327-4124-a3eb-06d55dcb60fb",
     "name": "Espresso Rumtini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -8186,66 +2714,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "1 shot",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c31b6c3a-cfff-4f25-9e40-d22830abcca6",
     "name": "Egg Nog - Healthy",
     "category": "Punch / Party Drink",
     "glass": "Collins Glass",
@@ -8286,51 +2758,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "224207f3-9f5e-42d1-b19f-30683305914d",
     "name": "English Rose Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -8366,56 +2797,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "873c46b4-6cdf-4400-896e-051d96e96053",
     "name": "Egg-Nog - Classic Cooked",
     "category": "Punch / Party Drink",
     "glass": "Pitcher",
@@ -8446,61 +2831,10 @@ export const totalRecipe = [
         "name": "Vanilla extract",
         "amount": "1 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "490b0cbc-6cb3-49eb-8321-5794ba17014e",
     "name": "Empellón Cocina's Fat-Washed Mezcal",
     "category": "Cocktail",
     "glass": "Beer Glass",
@@ -8521,71 +2855,10 @@ export const totalRecipe = [
         "name": "Coffee liqueur",
         "amount": "1/2 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c3c34234-d578-49cd-a488-d70e969c462d",
     "name": "Frappé",
     "category": "Coffee / Tea",
     "glass": "Highball Glass",
@@ -8606,71 +2879,10 @@ export const totalRecipe = [
         "name": "Sugar",
         "amount": "1-2 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "faf60106-d812-4997-b89c-4e24548f46e9",
     "name": "Foxy Lady",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -8691,71 +2903,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c5ac741d-db2a-4d6f-b8b8-ff92fc9ee5b6",
     "name": "French 75",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -8791,56 +2942,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a836cffa-05fc-4257-a5e6-f095f716bce1",
     "name": "French \"75\"",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -8876,56 +2981,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7fd2c3bf-aff2-483c-a760-f2539d9aede3",
     "name": "Frisco Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -8961,56 +3020,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "1 slice ",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9739ed9c-0c23-46ab-a022-ed9962866475",
     "name": "Fruit Shake",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -9041,61 +3054,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "6 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d15cbebc-a574-4598-b23f-8c7e60fd7a63",
     "name": "Fruit Cooler",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -9136,51 +3098,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4cb10dfc-3457-44f1-a5a1-b2762107c985",
     "name": "Freddy Kruger",
     "category": "Shot",
     "glass": "Shot glass",
@@ -9201,71 +3122,10 @@ export const totalRecipe = [
         "name": "Vodka",
         "amount": "1/2 oz ",
         "ingDescription": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitri Mendeleev. The European Union has established a minimum of 37.5% ABV for any \"European vodka\" to be named as such. Products sold as \"vodka\" in the United States must have a minimum alcohol content of 40%. Even with these loose restrictions, most vodka sold contains 40% ABV. For homemade vodkas and distilled beverages referred to as \"moonshine\", see moonshine by country.\r\n\r\nVodka is traditionally drunk neat (not mixed with any water, ice, or other mixer), though it is often served chilled in the vodka belt countries (Belarus, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Poland, Russia, Sweden, Ukraine). It is also commonly used in cocktails and mixed drinks, such as the vodka martini, Cosmopolitan, vodka tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, and Bloody Mary.\r\n\r\nScholars debate the beginnings of vodka. It is a contentious issue because very little historical material is available. For many centuries, beverages differed significantly compared to the vodka of today, as the spirit at that time had a different flavor, color and smell, and was originally used as medicine. It contained little alcohol, an estimated maximum of about 14%, as only this amount can be attained by natural fermentation. The still, allowing for distillation (\"burning of wine\"), increased purity, and increased alcohol content, was invented in the 8th century.\r\n\r\nA common property of the vodkas produced in the United States and Europe is the extensive use of filtration prior to any additional processing including the addition of flavorants. Filtering is sometimes done in the still during distillation, as well as afterwards, where the distilled vodka is filtered through activated charcoal and other media to absorb trace amounts of substances that alter or impart off-flavors to the vodka. However, this is not the case in the traditional vodka-producing nations, so many distillers from these countries prefer to use very accurate distillation but minimal filtering, thus preserving the unique flavors and characteristics of their products.\r\n\r\nThe master distiller is in charge of distilling the vodka and directing its filtration, which includes the removal of the \"fore-shots\", \"heads\" and \"tails\". These components of the distillate contain flavor compounds such as ethyl acetate and ethyl lactate (heads) as well as the fusel oils (tails) that impact the usually desired clean taste of vodka. Through numerous rounds of distillation, or the use of a fractioning still, the taste is modified and clarity is increased. In contrast, distillery process for liquors such as whiskey, rum, and baijiu allow portions of the \"heads\" and \"tails\" to remain, giving them their unique flavors.\r\n\r\nRepeated distillation of vodka will make its ethanol level much higher than is acceptable to most end users, whether legislation determines strength limits or not. Depending on the distillation method and the technique of the stillmaster, the final filtered and distilled vodka may have as much as 95–96% ethanol. As such, most vodka is diluted with water prior to bottling.\r\n\r\nPolish distilleries make a very pure (96%, 192 proof, formerly also 98%) rectified spirit (Polish language: spirytus rektyfikowany). Technically a form of vodka, it is sold in liquor stores rather than pharmacies. Similarly, the German market often carries German, Hungarian, Polish, and Ukrainian-made varieties of vodka of 90 to 95% ABV. A Bulgarian vodka, Balkan 176°, has an 88% alcohol content. Everclear, an American brand, is also sold at 95% ABV."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7d819e17-57ba-420e-9bbd-ef227cfaf5d7",
     "name": "Fuzzy Asshole",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -9281,76 +3141,10 @@ export const totalRecipe = [
         "name": "Peach schnapps",
         "amount": "1/2 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c47180c8-a258-4559-9dd1-d6e53ec8d984",
     "name": "French Martini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -9371,71 +3165,10 @@ export const totalRecipe = [
         "name": "pineapple juice",
         "amount": "1.5 cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "999a5e56-c8b0-4e46-bc31-dc79698cfffa",
     "name": "French Negroni",
     "category": "Cocktail",
     "glass": "Martini Glass",
@@ -9461,66 +3194,10 @@ export const totalRecipe = [
         "name": "Orange Peel",
         "amount": "1",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d5bd404c-d59e-48e6-a5d3-e5ae165eb0a4",
     "name": "Flying Dutchman",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -9536,76 +3213,10 @@ export const totalRecipe = [
         "name": "Triple sec",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2e661390-f3d4-4918-aa81-684de0bafb89",
     "name": "Frozen Daiquiri",
     "category": "Ordinary Drink",
     "glass": "Champagne flute",
@@ -9641,56 +3252,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "1 cup crushed ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "69bd8b0e-01ae-4e84-86f0-2ab12ca4fc75",
     "name": "Fruit Flip-Flop",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -9706,76 +3271,10 @@ export const totalRecipe = [
         "name": "Fruit juice",
         "amount": "1 cup ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "cf8895b2-ecc9-43e0-804a-99cf9f331b21",
     "name": "Fahrenheit 5000",
     "category": "Shot",
     "glass": "Shot glass",
@@ -9796,71 +3295,10 @@ export const totalRecipe = [
         "name": "Tabasco sauce",
         "amount": "1 dash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "52ea1a41-c200-4cd1-b3d5-b963030c5403",
     "name": "Flying Scotchman",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -9886,66 +3324,10 @@ export const totalRecipe = [
         "name": "Sugar syrup",
         "amount": "1/4 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b2a243c6-8817-43d0-97b9-60e0095694cc",
     "name": "French Connection",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -9961,76 +3343,10 @@ export const totalRecipe = [
         "name": "Amaretto",
         "amount": "3/4 oz ",
         "ingDescription": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", which references the distinctive flavour lent by the mandorla amara (the bitter almond) or by the drupe kernel. However, the bitterness of amaretto tends to be mild, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products. Thus one can interpret the liqueur's name as a description of the taste as \"a little bitter\". Cyanide is processed out of the almond preparation prior to its use.\r\n\r\nConflation of amaro (\"bitter\") and amore (\"love\") has led to associations with romance.\r\n\r\nOne should not confuse amaretto with amaro, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour derived from herbs."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "47ed10c1-2460-4deb-abd9-326619d9e8f6",
     "name": "Flaming Dr. Pepper",
     "category": "Shot",
     "glass": "Collins Glass",
@@ -10061,61 +3377,10 @@ export const totalRecipe = [
         "name": "Beer",
         "amount": "1 oz ",
         "ingDescription": "Beer is the oldest and most widely consumed alcoholic drink in the world, and the third most popular drink overall after water and tea.[5] Beer is brewed from cereal grains — most commonly from malted barley, though wheat, maize (corn), and rice are also used. During the brewing process, fermentation of the starch sugars in the wort produces ethanol and carbonation in the resulting beer. Most modern beer is brewed with hops, which add bitterness and other flavours and act as a natural preservative and stabilizing agent. Other flavouring agents such as gruit, herbs, or fruits may be included or used instead of hops. In commercial brewing, the natural carbonation effect is often removed during processing and replaced with forced carbonation.\r\n\r\nSome of humanity's earliest known writings refer to the production and distribution of beer: the Code of Hammurabi included laws regulating beer and beer parlours, and \"The Hymn to Ninkasi\", a prayer to the Mesopotamian goddess of beer, served as both a prayer and as a method of remembering the recipe for beer in a culture with few literate people.\r\n\r\nBeer is distributed in bottles and cans and is also commonly available on draught, particularly in pubs and bars. The brewing industry is a global business, consisting of several dominant multinational companies and many thousands of smaller producers ranging from brewpubs to regional breweries. The strength of modern beer is usually around 4% to 6% alcohol by volume (abv), although it may vary between 0.5% and 20%, with some breweries creating examples of 40% abv and above.[11] Beer forms part of the culture of many nations and is associated with social traditions such as beer festivals as well as a rich pub culture involving activities like pub crawling and pub games such as bar billiards.\r\n\r\nVarious legal definitions of beer exist in different countries. Historically, the most famous of these was the Reinheitsgebot, which applied to parts of the Holy Roman Empire and Germany and required beer to be made from only water, hops, and barley. Today in Canada, the Canadian Government’s Food and Drug Regulations state that beer must have alcohol content that ranges from 1.1% to 8.6%, though it also includes a stipulation that it could be greater than 8.6% and labeled accordingly. Beer in South Korea must have less than 25% ABV, which means that it has to be 25 mL of alcohol or less per 100 mL of solution and can be considered ‘lite’ only if it has less than 30 kcal per 100ml. Additionally, beer in South Korea must use only water, hops, and starches (wheat, rice, barley, corn, or potato) as ingredients in the brewing process.[13] In Singapore, beer must have at minimum 1.0% alcohol by volume concentration at 20 °C. It is often brewed from a mixture of grains like malt, sugars or its equivalent, and hops or other vegetables."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4cafed09-3226-45f3-a93f-1f290e37d88e",
     "name": "Flander's Flake-Out",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -10131,76 +3396,10 @@ export const totalRecipe = [
         "name": "Sarsaparilla",
         "amount": "3/4 glass ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ef82e925-403e-48f9-a427-6852793bc513",
     "name": "Flaming Lamborghini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -10226,66 +3425,10 @@ export const totalRecipe = [
         "name": "Bailey's irish cream",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "54e6cc86-e561-4de9-a803-d1125ba81fe5",
     "name": "Frozen Mint Daiquiri",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -10311,66 +3454,10 @@ export const totalRecipe = [
         "name": "Sugar",
         "amount": "1 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d1427881-7eca-422a-959a-7f3a8b9d07d8",
     "name": "Frozen Pineapple Daiquiri",
     "category": "Ordinary Drink",
     "glass": "Champagne flute",
@@ -10396,66 +3483,10 @@ export const totalRecipe = [
         "name": "Sugar",
         "amount": "1/2 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b0a62893-6b3f-47f3-b789-31be37d744e7",
     "name": "GG",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -10476,71 +3507,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f4fa64cf-3d78-447a-939a-5bc39fe396c3",
     "name": "Gimlet",
     "category": "Cocktail",
     "glass": "Martini Glass",
@@ -10566,66 +3536,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "1",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c6c72e03-a621-4f91-ab58-e2cf88972722",
     "name": "Gin Fizz",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -10651,66 +3565,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0e3fcd72-c0e4-4d67-968a-ae9a36607cb3",
     "name": "Gin Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -10741,61 +3599,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6d8f9e97-d439-48d6-a27f-9039f6bb0767",
     "name": "Godchild",
     "category": "Ordinary Drink",
     "glass": "Champagne flute",
@@ -10816,71 +3623,10 @@ export const totalRecipe = [
         "name": "Heavy cream",
         "amount": "1 oz ",
         "ingDescription": "Cream is a dairy product composed of the higher-butterfat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, will eventually rise to the top. In the industrial production of cream, this process is accelerated by using centrifuges called \"separators\". In many countries, cream is sold in several grades depending on the total butterfat content. Cream can be dried to a powder for shipment to distant markets. Cream has high levels of saturated fat.\r\n\r\nCream skimmed from milk may be called \"sweet cream\" to distinguish it from whey cream skimmed from whey, a by-product of cheese-making. Whey cream has a lower fat content and tastes more salty, tangy and \"cheesy\".[3] In many countries, cream is usually sold partially fermented: sour cream, crème fraîche, and so on.\r\n\r\nCream has many culinary uses in sweet, bitter, salty and tangy dishes.\r\n\r\nCream produced by cattle (particularly Jersey cattle) grazing on natural pasture often contains some natural carotenoid pigments derived from the plants they eat; this gives the cream a slight yellow tone, hence the name of the yellowish-white color, cream. This is also the origin of butter's yellow color. Cream from goat's milk, or from cows fed indoors on grain or grain-based pellets, is white."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "80d814a1-7bdc-41b5-9fb2-045d34b59213",
     "name": "Gin Daisy",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -10916,56 +3662,10 @@ export const totalRecipe = [
         "name": "Orange",
         "amount": "1 ",
         "ingDescription": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the percentage of pomelo genes varying from ~50% to 6% have been reported.\r\n\r\nSweet oranges were mentioned in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.\r\n\r\nIn 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China and India."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "675d4d3e-098d-4b57-a7f2-82931a354164",
     "name": "Gin Sling",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -10996,61 +3696,10 @@ export const totalRecipe = [
         "name": "Orange peel",
         "amount": "Twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "84c96337-2c2b-45d5-9aff-b4dc2533fc68",
     "name": "Gin Smash",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -11086,56 +3735,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d533950f-9477-49d4-ac7b-69ab7dfee8f0",
     "name": "Gin Toddy",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -11161,66 +3764,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "92b24d31-e782-4552-8767-4ca870bc6b7f",
     "name": "Godfather",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -11236,76 +3783,10 @@ export const totalRecipe = [
         "name": "Amaretto",
         "amount": "3/4 oz ",
         "ingDescription": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", which references the distinctive flavour lent by the mandorla amara (the bitter almond) or by the drupe kernel. However, the bitterness of amaretto tends to be mild, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products. Thus one can interpret the liqueur's name as a description of the taste as \"a little bitter\". Cyanide is processed out of the almond preparation prior to its use.\r\n\r\nConflation of amaro (\"bitter\") and amore (\"love\") has led to associations with romance.\r\n\r\nOne should not confuse amaretto with amaro, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour derived from herbs."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1c02a29b-2ca6-4b31-856b-bdf8d27c9385",
     "name": "Godmother",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -11321,76 +3802,10 @@ export const totalRecipe = [
         "name": "Amaretto",
         "amount": "3/4 oz ",
         "ingDescription": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", which references the distinctive flavour lent by the mandorla amara (the bitter almond) or by the drupe kernel. However, the bitterness of amaretto tends to be mild, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products. Thus one can interpret the liqueur's name as a description of the taste as \"a little bitter\". Cyanide is processed out of the almond preparation prior to its use.\r\n\r\nConflation of amaro (\"bitter\") and amore (\"love\") has led to associations with romance.\r\n\r\nOne should not confuse amaretto with amaro, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour derived from herbs."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5dbfe4e1-5dcb-4ce4-b430-0d1577eb6cd5",
     "name": "Gagliardo",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -11416,66 +3831,10 @@ export const totalRecipe = [
         "name": "Sirup of roses",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "38bb0d6a-0317-4d2e-9531-b2283bbfa712",
     "name": "Gluehwein",
     "category": "Punch / Party Drink",
     "glass": "Irish coffee cup",
@@ -11511,56 +3870,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e41aab43-9c85-40f6-9989-52bb307ba9dd",
     "name": "Greyhound",
     "category": "Cocktail",
     "glass": "Collins glass",
@@ -11576,76 +3889,10 @@ export const totalRecipe = [
         "name": "Grapefruit Juice",
         "amount": "3 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "646dbaed-fcff-4e12-9fff-21dbe3966acc",
     "name": "Gin Cooler",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -11676,61 +3923,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "edfeca2c-8bc4-41d0-bfa2-c6bf976bfe57",
     "name": "Gin Squirt",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -11766,56 +3962,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e4259f97-78b6-451c-b047-18f4bc373df4",
     "name": "Grand Blue",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -11841,66 +3991,10 @@ export const totalRecipe = [
         "name": "Sweet and sour",
         "amount": "3 cl ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "cc8226e7-e508-4d57-b5ac-eb0ac26ca318",
     "name": "Gin Rickey",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -11931,61 +4025,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "Garnish",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\r\n",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3d2617c6-3113-4483-bd50-0d2a794f95b3",
     "name": "Gin Swizzle",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -12016,61 +4059,10 @@ export const totalRecipe = [
         "name": "Club soda",
         "amount": "3 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3b85c1f8-358e-4b5b-ba25-1c426bc4364c",
     "name": "Grass Skirt",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -12101,61 +4093,10 @@ export const totalRecipe = [
         "name": "Pineapple",
         "amount": "1 ",
         "ingDescription": "The pineapple (Ananas comosus) is a tropical plant with an edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.\r\n\r\nPineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 5–10 months and fruiting in the following six months. Pineapples do not ripen significantly after harvest.\r\n\r\nPineapples can be consumed fresh, cooked, juiced, or preserved. They are found in a wide array of cuisines. In addition to consumption, the pineapple leaves are used to produce the textile fiber piña in the Philippines, commonly used as the material for the men's barong Tagalog and women's baro't saya formal wear in the country. The fiber is also used as a component for wallpaper and other furnishings."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d10634ef-01c4-4990-b4c5-5b41b5a4e1fc",
     "name": "Grim Reaper",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -12176,71 +4117,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1 dash ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7e5ef4d2-a62c-4982-9fcb-d3583535119c",
     "name": "Grasshopper",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -12261,71 +4141,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "3/4 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ed253b55-ccbe-4665-979b-aa06c050a484",
     "name": "Grizzly Bear",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -12351,66 +4170,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "2 1/2 parts ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6a27112e-f751-441a-a43b-51f29b043be0",
     "name": "Green Goblin",
     "category": "Beer",
     "glass": "Pint glass",
@@ -12431,71 +4194,10 @@ export const totalRecipe = [
         "name": "Blue Curacao",
         "amount": "1 shot ",
         "ingDescription": "Curaçao (/ˈkjʊərəsaʊ/) is a liqueur flavored with the dried peel of the Laraha citrus fruit, grown on the island of Curaçao.\r\n\r\nAn official Curaçao liqueur has to be made with the dried peels of the \"Laraha\". Laraha is a bitter orange native of Curaçao with the Latin name: \"Citrus Aurantium Currasuviensis\", meaning \"Golden Orange of Curaçao\". Spanish explorers brought the sweet Valencia orange to the island in 1527, [2] but the nutrient-poor soil and arid climate of Curaçao proved unsuitable to Valencia cultivation, resulting in small, bitter fruit. Although the bitter flesh of the Laraha is hardly edible, the peels are aromatic and flavorful, maintaining much of the essence of the Valencia orange.\r\n\r\nThere are no definite facts that points out who and when the first Curaçao Liqueur was developed. The Lucas Bols distillery, founded in 1575 in Amsterdam, maintains that Lucas Bols (1652–1719) already developed a Laraha-based liqueur. The Dutch West Indies Company had taken possession of Curaçao in 1634 and Bols had shares in both the West and East India Companies to guarantee the cheap supply of spices for their distilled drinks. After the discovery that an aromatic oil could be extracted from the unripe peel of the otherwise useless bitter oranges, Bols had this oil exported back to Amsterdam to develop a liqueur similar to current day Curaçao. Bols tended to add an \"element of alchemical mystery\" to his products, explaining the unlikely addition of a blue coloring. In the past, the liqueur also had the name Crème de Ciel (\"cream of heaven\"), presumably for its blue color.\r\n\r\nAlternatively, the Senior & Co, a company that originates from Curaçao, are to this day the only company that always produced their liqueur with the peels of the Laraha. The Jewish family, Senior and Chumacairo, started selling their liqueur in 1896 in their pharmacy at small quantities. In 1947 they bought the Landhuis (Dutch for \"country manor\") Chobolobo in Willemstad, where the distillery has since been housed. As this company is the only one who uses laraha fruit from Curaçao, it has been permitted to put the word \"genuine\" on its labels."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "eb4a8614-61b2-4d01-bbc5-1926d080052d",
     "name": "Golden dream",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -12521,66 +4223,10 @@ export const totalRecipe = [
         "name": "Cream",
         "amount": "1 part",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "02e60551-9e72-4a0b-99bd-c8ddb49a1e04",
     "name": "H.D.",
     "category": "Coffee / Tea",
     "glass": "Beer mug",
@@ -12601,71 +4247,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "\n",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0cb9fd4b-c064-48fc-ad36-8e5f62ec20b9",
     "name": "Herbal flame",
     "category": "Coffee / Tea",
     "glass": "Mason jar",
@@ -12681,76 +4266,10 @@ export const totalRecipe = [
         "name": "Tea",
         "amount": "very sweet ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "62583b19-924b-4aa0-b993-0c8efe47d341",
     "name": "Horse's Neck",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -12776,66 +4295,10 @@ export const totalRecipe = [
         "name": "Bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ef55f9f3-d79d-45b3-b880-58ccd84be270",
     "name": "Happy Skipper",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -12861,66 +4324,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "734d1eb3-5cc0-4a63-a6f0-c0a501142f02",
     "name": "Hunter's Moon",
     "category": "Cocktail",
     "glass": "Balloon Glass",
@@ -12951,61 +4358,10 @@ export const totalRecipe = [
         "name": "Blackberries",
         "amount": "2",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7cfdd698-32bf-4cf9-9058-1f502107d449",
     "name": "Havana Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -13026,71 +4382,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "1 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e92e09c0-8488-4699-9a29-24dbad66cdba",
     "name": "Holloween Punch",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -13116,66 +4411,10 @@ export const totalRecipe = [
         "name": "Sherbet",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "af9a814f-bcaf-4286-a8e7-ee05d165c7fe",
     "name": "Hot Creamy Bush",
     "category": "Coffee / Tea",
     "glass": "Irish coffee cup",
@@ -13196,71 +4435,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "6 oz hot ",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "524af6f8-d772-476f-8330-005a9ca8e30d",
     "name": "Homemade Kahlua",
     "category": "Homemade Liqueur",
     "glass": "Collins Glass",
@@ -13296,56 +4474,10 @@ export const totalRecipe = [
         "name": "Vodka",
         "amount": "1 fifth ",
         "ingDescription": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitri Mendeleev. The European Union has established a minimum of 37.5% ABV for any \"European vodka\" to be named as such. Products sold as \"vodka\" in the United States must have a minimum alcohol content of 40%. Even with these loose restrictions, most vodka sold contains 40% ABV. For homemade vodkas and distilled beverages referred to as \"moonshine\", see moonshine by country.\r\n\r\nVodka is traditionally drunk neat (not mixed with any water, ice, or other mixer), though it is often served chilled in the vodka belt countries (Belarus, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Poland, Russia, Sweden, Ukraine). It is also commonly used in cocktails and mixed drinks, such as the vodka martini, Cosmopolitan, vodka tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, and Bloody Mary.\r\n\r\nScholars debate the beginnings of vodka. It is a contentious issue because very little historical material is available. For many centuries, beverages differed significantly compared to the vodka of today, as the spirit at that time had a different flavor, color and smell, and was originally used as medicine. It contained little alcohol, an estimated maximum of about 14%, as only this amount can be attained by natural fermentation. The still, allowing for distillation (\"burning of wine\"), increased purity, and increased alcohol content, was invented in the 8th century.\r\n\r\nA common property of the vodkas produced in the United States and Europe is the extensive use of filtration prior to any additional processing including the addition of flavorants. Filtering is sometimes done in the still during distillation, as well as afterwards, where the distilled vodka is filtered through activated charcoal and other media to absorb trace amounts of substances that alter or impart off-flavors to the vodka. However, this is not the case in the traditional vodka-producing nations, so many distillers from these countries prefer to use very accurate distillation but minimal filtering, thus preserving the unique flavors and characteristics of their products.\r\n\r\nThe master distiller is in charge of distilling the vodka and directing its filtration, which includes the removal of the \"fore-shots\", \"heads\" and \"tails\". These components of the distillate contain flavor compounds such as ethyl acetate and ethyl lactate (heads) as well as the fusel oils (tails) that impact the usually desired clean taste of vodka. Through numerous rounds of distillation, or the use of a fractioning still, the taste is modified and clarity is increased. In contrast, distillery process for liquors such as whiskey, rum, and baijiu allow portions of the \"heads\" and \"tails\" to remain, giving them their unique flavors.\r\n\r\nRepeated distillation of vodka will make its ethanol level much higher than is acceptable to most end users, whether legislation determines strength limits or not. Depending on the distillation method and the technique of the stillmaster, the final filtered and distilled vodka may have as much as 95–96% ethanol. As such, most vodka is diluted with water prior to bottling.\r\n\r\nPolish distilleries make a very pure (96%, 192 proof, formerly also 98%) rectified spirit (Polish language: spirytus rektyfikowany). Technically a form of vodka, it is sold in liquor stores rather than pharmacies. Similarly, the German market often carries German, Hungarian, Polish, and Ukrainian-made varieties of vodka of 90 to 95% ABV. A Bulgarian vodka, Balkan 176°, has an 88% alcohol content. Everclear, an American brand, is also sold at 95% ABV."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9d63014c-1ab4-4777-ae5b-c7e7c537ef50",
     "name": "Harvey Wallbanger",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -13366,71 +4498,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "4 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d236e596-81bb-4e7e-a8ec-c8f390172c0e",
     "name": "Hawaiian Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -13451,71 +4522,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "58f54039-646d-4262-936c-a0039b029bf6",
     "name": "Hemingway Special",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -13541,66 +4551,10 @@ export const totalRecipe = [
         "name": "Lime Juice",
         "amount": "3 parts",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "eb5fd416-5de7-4e7a-a758-81adcccb496a",
     "name": "Highland Fling Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -13626,66 +4580,10 @@ export const totalRecipe = [
         "name": "Olive",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b050348c-dd8e-400b-8733-d8b5751d48dd",
     "name": "Hot Chocolate to Die for",
     "category": "Cocoa",
     "glass": "Coffee mug",
@@ -13716,61 +4614,10 @@ export const totalRecipe = [
         "name": "Marshmallows",
         "amount": "mini ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a7d2be31-8368-44c8-8be8-8325aed6fb1f",
     "name": "Ipamena",
     "category": "Ordinary Drink",
     "glass": "Wine Glass",
@@ -13801,61 +4648,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "fill",
         "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "efe46877-6407-443d-a871-19387bb3bf05",
     "name": "Iced Coffee",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -13881,66 +4677,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "4 cups cold ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b0088f87-d64c-47b1-acde-d57e794ebaae",
     "name": "Irish Cream",
     "category": "Homemade Liqueur",
     "glass": "Irish coffee cup",
@@ -13971,61 +4711,10 @@ export const totalRecipe = [
         "name": "Chocolate syrup",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "46efbb9e-b9f5-43c1-9b44-0c497adab262",
     "name": "Ice Pick #1",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -14046,71 +4735,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": " to taste\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3ee1ca5d-5820-4551-bd2b-1bb8737b9fc7",
     "name": "Irish Spring",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -14146,56 +4774,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "baf415a0-cd9a-414e-b363-c3f703db924f",
     "name": "Irish Coffee",
     "category": "Coffee / Tea",
     "glass": "Irish coffee cup",
@@ -14221,66 +4803,10 @@ export const totalRecipe = [
         "name": "Whipped cream",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "256bd9d9-b12b-40b6-8c61-a0c013cc6cae",
     "name": "Imperial Fizz",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -14311,61 +4837,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "dc17dfe0-fe2e-4241-872f-4352d84c0384",
     "name": "Irish Russian",
     "category": "Beer",
     "glass": "Highball glass",
@@ -14391,66 +4866,10 @@ export const totalRecipe = [
         "name": "Guinness stout",
         "amount": "Fill with ",
         "ingDescription": "Guinness (/ˈɡɪnɪs/) is an Irish dry stout that originated in the brewery of Arthur Guinness (1725–1803) at St. James's Gate brewery in the capital city of Dublin, Ireland. Guinness, produced by the Diageo beverages company, is one of the most successful beer brands worldwide. It is brewed in almost 50 countries and is available in over 120. Annual sales total of Guinness in 2011 was 850 million litres (220,000,000 US gal).\r\n\r\nGuinness features a burnt flavour that is derived from malted barley and roasted unmalted barley. The use of roasted barley is a relatively modern development, not becoming part of the grist until the mid-20th century. For many years, a portion of aged brew was blended with freshly brewed beer to give a sharp lactic flavour. Although Guinness's palate still features a characteristic \"tang\", the company has refused to confirm whether this type of blending still occurs. The draught beer's thick, creamy head comes from mixing the beer with nitrogen and carbon dioxide when poured. It is popular with the Irish, both in Ireland and abroad. In spite of declining consumption since 2001, it is still the best-selling alcoholic drink in Ireland where Guinness & Co. Brewery makes almost €2 billion worth of the beverage annually.\r\n\r\nThe company was started in 1759 in Dublin, but had to move its headquarters to London at the beginning of the Anglo-Irish Trade War in 1932. In 1997, Guinness plc merged with Grand Metropolitan to form the multinational alcoholic drinks producer Diageo."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "81ceb010-79d7-4f5e-b00a-a1fade17cbee",
     "name": "Imperial Cocktail",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -14471,71 +4890,10 @@ export const totalRecipe = [
         "name": "Aperol",
         "amount": "4 cl ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f3f5680b-c212-490d-ad74-b4b1553897f0",
     "name": "Iced Coffee Fillip",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -14551,76 +4909,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "Strong cold ",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c83aad34-4de5-4fdf-b1cf-4113b0c78a81",
     "name": "Irish Curdling Cow",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -14646,66 +4938,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "2-3 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "cc6e3f35-7705-4604-ad99-03ab2db91132",
     "name": "Jitterbug",
     "category": "Cocktail",
     "glass": "Cocktail Glass",
@@ -14746,51 +4982,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "Fill to top with ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "939f402e-b527-4e5f-9af9-110330167dab",
     "name": "Jam Donut",
     "category": "Shot",
     "glass": "Shot glass",
@@ -14816,66 +5011,10 @@ export const totalRecipe = [
         "name": "Sugar",
         "amount": "2 pinches",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "48d32e4a-2064-478d-bcd5-54093fe1368c",
     "name": "Jelly Bean",
     "category": "Shot",
     "glass": "Cordial glass",
@@ -14891,76 +5030,10 @@ export const totalRecipe = [
         "name": "Anis",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4519bf74-1c34-49ed-9e5c-f8d91079ebf4",
     "name": "Jackhammer",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -14976,76 +5049,10 @@ export const totalRecipe = [
         "name": "Amaretto",
         "amount": "1 oz ",
         "ingDescription": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", which references the distinctive flavour lent by the mandorla amara (the bitter almond) or by the drupe kernel. However, the bitterness of amaretto tends to be mild, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products. Thus one can interpret the liqueur's name as a description of the taste as \"a little bitter\". Cyanide is processed out of the almond preparation prior to its use.\r\n\r\nConflation of amaro (\"bitter\") and amore (\"love\") has led to associations with romance.\r\n\r\nOne should not confuse amaretto with amaro, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour derived from herbs."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b64cecd4-00aa-4d6a-a24c-e6e548256689",
     "name": "Jello shots",
     "category": "Shot",
     "glass": "Shot glass",
@@ -15066,71 +5073,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "3 cups ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bc914f05-2a2c-4540-85ef-7a96b4adb267",
     "name": "John Collins",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -15166,56 +5112,10 @@ export const totalRecipe = [
         "name": "Orange",
         "amount": "1 ",
         "ingDescription": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the percentage of pomelo genes varying from ~50% to 6% have been reported.\r\n\r\nSweet oranges were mentioned in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.\r\n\r\nIn 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China and India."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "df1e0b7f-1855-4e66-9946-f83f568032da",
     "name": "Jamaica Kiss",
     "category": "Milk / Float / Shake",
     "glass": "Hurricane glass",
@@ -15241,66 +5141,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "\n",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "37d34cbf-155f-40d6-aaaf-728f518e3453",
     "name": "Japanese Fizz",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -15336,56 +5180,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ca643415-58c7-4362-8794-bc96875ecede",
     "name": "Just a Moonmint",
     "category": "Milk / Float / Shake",
     "glass": "Highball Glass",
@@ -15406,71 +5204,10 @@ export const totalRecipe = [
         "name": "Mint syrup",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4dcdbb6c-252d-4194-8949-2eac9c3fb366",
     "name": "Jamaican Coffee",
     "category": "Coffee / Tea",
     "glass": "Champagne flute",
@@ -15496,66 +5233,10 @@ export const totalRecipe = [
         "name": "Whipped cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "75f3bb7d-5768-4f00-9184-7538a1c0ff85",
     "name": "Jewel Of The Nile",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -15576,71 +5257,10 @@ export const totalRecipe = [
         "name": "Yellow Chartreuse",
         "amount": "1/2 oz ",
         "ingDescription": "Chartreuse (pronounced [ʃaʁtʁøz]) is a French liqueur made by the Carthusian Monks since 1737 according to the instructions set out in a manuscript given to them by François Annibal d'Estrées in 1605. It is composed of distilled alcohol aged with 130 herbs, plants and flowers. The liqueur is named after the monks' Grande Chartreuse monastery, located in the Chartreuse Mountains in the general region of Grenoble in France. The liqueur is produced in their distillery in the nearby town of Voiron (Isère). Until the 1980s, there was another distillery at Tarragona in Spain.\r\n\r\nChartreuse gives its name to the color chartreuse, which was first used as a term of color in 1884. It is one of the handful of liquors that continue to age and improve in the bottle."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8de68437-9047-4bd0-8e94-886f51dbb96a",
     "name": "Jack Rose Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -15661,71 +5281,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "Juice of 1/2 ",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f1b24b40-b882-43b7-9a50-e46e721ce01c",
     "name": "Jack's Vanilla Coke",
     "category": "Other/Unknown",
     "glass": "Old-fashioned glass",
@@ -15751,66 +5310,10 @@ export const totalRecipe = [
         "name": "Coca-Cola",
         "amount": "10-12 oz ",
         "ingDescription": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.\r\n\r\nThe Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical 12-US-fluid-ounce (350 ml) can contains 38 grams (1.3 oz) of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.\r\n\r\nThe Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Based on Interbrand's \"best global brand\" study of 2015, Coca-Cola was the world's third most valuable brand, after Apple and Google. In 2013, Coke products were sold in over 200 countries worldwide, with consumers downing more than 1.8 billion company beverage servings each day."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5a56fe63-a08f-49a2-ac9e-6ae6158e7b98",
     "name": "Kir",
     "category": "Ordinary Drink",
     "glass": "Wine Glass",
@@ -15826,76 +5329,10 @@ export const totalRecipe = [
         "name": "Champagne",
         "amount": "5 parts ",
         "ingDescription": "Champagne (French: [ʃɑ̃.paɲ]) is a sparkling wine and type of alcoholic drink produced from grapes grown in the Champagne region of France following rules that demand, among other things, secondary fermentation of the wine in the bottle to create carbonation, specific vineyard practices, sourcing of grapes exclusively from specific parcels in the Champagne appellation and specific pressing regimes unique to the region.[1] It contains the drug alcohol (also known formally as ethanol), and is used recreationally. Some use the term Champagne as a generic term for sparkling wine, but in many countries, it is illegal to label any product Champagne unless it both comes from the Champagne region and is produced under the rules of the appellation.\r\n\r\nThe primary grapes used in the production of Champagne are black Pinot noir and Pinot Meunier but also white Chardonnay. Champagne appellation law only allows grapes grown according to appellation rules in specifically designated plots within the appellation to be used in the production of champagne.\r\n\r\nChampagne became associated with royalty in the 17th, 18th, and 19th centuries. The leading manufacturers made efforts to associate their Champagnes with nobility and royalty through advertising and packaging, which led to popularity among the emerging middle class."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "eefa643a-e21e-4f72-8b58-3e4408925ba3",
     "name": "Karsk",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -15911,76 +5348,10 @@ export const totalRecipe = [
         "name": "Grain alcohol",
         "amount": "2 parts ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c73907f6-999f-492a-b8e1-262b7d526e4c",
     "name": "Kamikaze",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -16001,71 +5372,10 @@ export const totalRecipe = [
         "name": "Lime juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "14bf1ff7-32e3-4e0b-9423-c73e629897eb",
     "name": "Kir Royale",
     "category": "Ordinary Drink",
     "glass": "Champagne Flute",
@@ -16081,76 +5391,10 @@ export const totalRecipe = [
         "name": "Champagne",
         "amount": "5 parts ",
         "ingDescription": "Champagne (French: [ʃɑ̃.paɲ]) is a sparkling wine and type of alcoholic drink produced from grapes grown in the Champagne region of France following rules that demand, among other things, secondary fermentation of the wine in the bottle to create carbonation, specific vineyard practices, sourcing of grapes exclusively from specific parcels in the Champagne appellation and specific pressing regimes unique to the region.[1] It contains the drug alcohol (also known formally as ethanol), and is used recreationally. Some use the term Champagne as a generic term for sparkling wine, but in many countries, it is illegal to label any product Champagne unless it both comes from the Champagne region and is produced under the rules of the appellation.\r\n\r\nThe primary grapes used in the production of Champagne are black Pinot noir and Pinot Meunier but also white Chardonnay. Champagne appellation law only allows grapes grown according to appellation rules in specifically designated plots within the appellation to be used in the production of champagne.\r\n\r\nChampagne became associated with royalty in the 17th, 18th, and 19th centuries. The leading manufacturers made efforts to associate their Champagnes with nobility and royalty through advertising and packaging, which led to popularity among the emerging middle class."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "93da6bef-0428-4cd4-bdee-d7635f702e5d",
     "name": "Kurant Tea",
     "category": "Coffee / Tea",
     "glass": "Champagne flute",
@@ -16171,71 +5415,10 @@ export const totalRecipe = [
         "name": "Sugar",
         "amount": " (if needed)\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "07e402d0-4efa-45fe-8a07-a508ceef308f",
     "name": "Kiwi Lemon",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -16256,71 +5439,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1242ef6e-71e2-4bc6-b8a6-fc86d3a92c0f",
     "name": "Kioki Coffee",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -16341,71 +5463,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "\n",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "43b102c8-0098-4584-8430-2c8338629d2c",
     "name": "Kool-Aid Shot",
     "category": "Shot",
     "glass": "Old-fashioned glass",
@@ -16436,61 +5497,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3df60580-ffaf-46f4-9059-fd0c09b58368",
     "name": "Kiss me Quick",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -16521,61 +5531,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b27be55c-9784-487a-81ea-0d47036e44fc",
     "name": "Kool First Aid",
     "category": "Shot",
     "glass": "Shot glass",
@@ -16591,76 +5550,10 @@ export const totalRecipe = [
         "name": "Kool-Aid",
         "amount": "1/2 tsp Tropical ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f09ccb2f-409b-4f99-9d92-61cb9eb1d440",
     "name": "Kentucky B And B",
     "category": "Ordinary Drink",
     "glass": "Brandy snifter",
@@ -16676,76 +5569,10 @@ export const totalRecipe = [
         "name": "Benedictine",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e2578cb2-64cc-4718-92b3-858d64b5e2db",
     "name": "Kentucky Colonel",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -16766,71 +5593,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "dd0be698-b47a-4967-b534-4bbac0d19f80",
     "name": "Kool-Aid Slammer",
     "category": "Shot",
     "glass": "Shot glass",
@@ -16846,76 +5612,10 @@ export const totalRecipe = [
         "name": "Vodka",
         "amount": "1/2 oz ",
         "ingDescription": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitri Mendeleev. The European Union has established a minimum of 37.5% ABV for any \"European vodka\" to be named as such. Products sold as \"vodka\" in the United States must have a minimum alcohol content of 40%. Even with these loose restrictions, most vodka sold contains 40% ABV. For homemade vodkas and distilled beverages referred to as \"moonshine\", see moonshine by country.\r\n\r\nVodka is traditionally drunk neat (not mixed with any water, ice, or other mixer), though it is often served chilled in the vodka belt countries (Belarus, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Poland, Russia, Sweden, Ukraine). It is also commonly used in cocktails and mixed drinks, such as the vodka martini, Cosmopolitan, vodka tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, and Bloody Mary.\r\n\r\nScholars debate the beginnings of vodka. It is a contentious issue because very little historical material is available. For many centuries, beverages differed significantly compared to the vodka of today, as the spirit at that time had a different flavor, color and smell, and was originally used as medicine. It contained little alcohol, an estimated maximum of about 14%, as only this amount can be attained by natural fermentation. The still, allowing for distillation (\"burning of wine\"), increased purity, and increased alcohol content, was invented in the 8th century.\r\n\r\nA common property of the vodkas produced in the United States and Europe is the extensive use of filtration prior to any additional processing including the addition of flavorants. Filtering is sometimes done in the still during distillation, as well as afterwards, where the distilled vodka is filtered through activated charcoal and other media to absorb trace amounts of substances that alter or impart off-flavors to the vodka. However, this is not the case in the traditional vodka-producing nations, so many distillers from these countries prefer to use very accurate distillation but minimal filtering, thus preserving the unique flavors and characteristics of their products.\r\n\r\nThe master distiller is in charge of distilling the vodka and directing its filtration, which includes the removal of the \"fore-shots\", \"heads\" and \"tails\". These components of the distillate contain flavor compounds such as ethyl acetate and ethyl lactate (heads) as well as the fusel oils (tails) that impact the usually desired clean taste of vodka. Through numerous rounds of distillation, or the use of a fractioning still, the taste is modified and clarity is increased. In contrast, distillery process for liquors such as whiskey, rum, and baijiu allow portions of the \"heads\" and \"tails\" to remain, giving them their unique flavors.\r\n\r\nRepeated distillation of vodka will make its ethanol level much higher than is acceptable to most end users, whether legislation determines strength limits or not. Depending on the distillation method and the technique of the stillmaster, the final filtered and distilled vodka may have as much as 95–96% ethanol. As such, most vodka is diluted with water prior to bottling.\r\n\r\nPolish distilleries make a very pure (96%, 192 proof, formerly also 98%) rectified spirit (Polish language: spirytus rektyfikowany). Technically a form of vodka, it is sold in liquor stores rather than pharmacies. Similarly, the German market often carries German, Hungarian, Polish, and Ukrainian-made varieties of vodka of 90 to 95% ABV. A Bulgarian vodka, Balkan 176°, has an 88% alcohol content. Everclear, an American brand, is also sold at 95% ABV."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "dd2beac0-7240-4ae9-a317-fa5e1c7a099c",
     "name": "Kiwi Papaya Smoothie",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -16931,76 +5631,10 @@ export const totalRecipe = [
         "name": "Papaya",
         "amount": "1/2 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ffd499cc-cd3f-4118-b72e-2912745f19cb",
     "name": "Kill the cold Smoothie",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -17021,71 +5655,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "1 cup hot ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c1448ad5-bf22-4d33-a34c-dc9e1f13e915",
     "name": "Limeade",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -17111,66 +5684,10 @@ export const totalRecipe = [
         "name": "Lime peel",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3a55d686-3f13-464f-8855-2840169d813f",
     "name": "Lunch Box",
     "category": "Beer",
     "glass": "Pint glass",
@@ -17191,71 +5708,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d5406d89-ae65-4d37-9ab3-042c9df95718",
     "name": "Lemon Shot",
     "category": "Shot",
     "glass": "Shot glass",
@@ -17286,61 +5742,10 @@ export const totalRecipe = [
         "name": "151 proof rum",
         "amount": " ",
         "ingDescription": "Bacardi 151 is a brand of highly alcoholic rum made by Bacardi Limited of Hamilton, Bermuda. It is named for its alcohol proof level of 151, that is, 75.5% alcohol by volume. This is much higher than typical rum at 35%–40%. Bacardi 151 has been sold in the US since at least 1981.\r\n\r\nAs with all high-alcohol beverages, Bacardi 151 is flammable. Bacardi 151 has multiple warnings on the label of the bottle stating that it should not be ignited or exposed to an open flame. Bottles are also equipped with a stainless steel flame arrester crimped onto the neck of the bottle to prevent the rum inside the bottle from igniting, in case a consumer ignores the warnings and applies the rum to a source of ignition (e.g. a flaming pan or dish, a flambé). Despite the warnings against ignition and the flame arrester, consumers have claimed to have been burned by people who ignored repeated warnings, removed the flame arrester, and exposed the bottle to an open flame.\r\n\r\nBacardi 151 is typically used in sweet drinks, such as the Hurricane and Caribou Lou, which combine rum and fruit juices.\r\n\r\nIn Germany, Bacardi 151 is frequently used to prepare Feuerzangenbowle, a traditional German alcoholic drink.\r\n\r\nDuring the Goldfield Ashes, Charters Towers, Bacardi 151 has been known to be the 'fine' of choice for visiting teams...causing significant performance issues the next day, and even the odd vow of sobriety!"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "603355a7-3a2e-4cf2-9f47-b15f25135b69",
     "name": "Long vodka",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -17371,61 +5776,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "4 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "20ffe648-af26-4a5f-b229-efdb58dfb311",
     "name": "Lemon Drop",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -17446,71 +5800,10 @@ export const totalRecipe = [
         "name": "Lemon",
         "amount": "Juice of 1 wedge ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c2a7f61f-9c0c-4b37-8be3-9207ffca8c07",
     "name": "Loch Lomond",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -17536,66 +5829,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bc28d62d-5fa6-40cb-a8c4-f75ca4c5ec6d",
     "name": "London Town",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -17616,71 +5853,10 @@ export const totalRecipe = [
         "name": "Orange bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5ec8a83a-519b-4e69-97f9-bee492574744",
     "name": "Lassi Khara",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -17706,66 +5882,10 @@ export const totalRecipe = [
         "name": "Asafoetida",
         "amount": "1 pinch ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "36cdbad6-5c2e-4a84-b453-ec078c3de496",
     "name": "Lassi Raita",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -17796,61 +5916,10 @@ export const totalRecipe = [
         "name": "Salt",
         "amount": "\n",
         "ingDescription": "Table salt or common salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt or halite. Salt is present in vast quantities in seawater, where it is the main mineral constituent. The open ocean has about 35 grams (1.2 oz) of solids per litre, a salinity of 3.5%.\r\n\r\nSalt is essential for life in general, and saltiness is one of the basic human tastes. The tissues of animals contain larger quantities of salt than do plant tissues. Salt is one of the oldest and most ubiquitous food seasonings, and salting is an important method of food preservation.\r\n\r\nSome of the earliest evidence of salt processing dates to around 8,000 years ago, when people living in the area of present-day Romania boiled spring water to extract salts; a salt-works in China dates to approximately the same period. Salt was also prized by the ancient Hebrews, the Greeks, the Romans, the Byzantines, the Hittites, Egyptians, and the Indians. Salt became an important article of trade and was transported by boat across the Mediterranean Sea, along specially built salt roads, and across the Sahara on camel caravans. The scarcity and universal need for salt have led nations to go to war over it and use it to raise tax revenues. Salt is used in religious ceremonies and has other cultural significance.\r\n\r\nSalt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools. Its major industrial products are caustic soda and chlorine; salt is used in many industrial processes including the manufacture of polyvinyl chloride, plastics, paper pulp and many other products. Of the annual global production of around two hundred million tonnes of salt, only about 6% is used for human consumption. Other uses include water conditioning processes, de-icing highways, and agricultural use. Edible salt is sold in forms such as sea salt and table salt which usually contains an anti-caking agent and may be iodised to prevent iodine deficiency. As well as its use in cooking and at the table, salt is present in many processed foods.\r\n\r\nSodium is an essential nutrient for human health via its role as an electrolyte and osmotic solute. Excessive salt consumption may increase the risk of cardiovascular diseases, such as hypertension, in children and adults. Such health effects of salt have long been studied. Accordingly, numerous world health associations and experts in developed countries recommend reducing consumption of popular salty foods. The World Health Organization recommends that adults should consume less than 2,000 mg of sodium, equivalent to 5 grams of salt per day."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "642f3496-e6c4-4e68-bb4d-735eb4b69509",
     "name": "Lemouroudji",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -17881,61 +5950,10 @@ export const totalRecipe = [
         "name": "Cayenne pepper",
         "amount": "ground ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c298d1c5-c704-4141-8495-87290bdcaaf3",
     "name": "Lord And Lady",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -17951,76 +5969,10 @@ export const totalRecipe = [
         "name": "Tia maria",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "35e156b8-e8dd-4b2e-bb16-546685be8ddb",
     "name": "Lassi - Sweet",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -18051,61 +6003,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "2 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "43dde845-1abd-4932-9935-4160d94f48ba",
     "name": "Lassi - Mango",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -18131,66 +6032,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "1 cup iced ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e87e55d1-711d-40a0-88bf-36808c4301c8",
     "name": "Limona Corona",
     "category": "Beer",
     "glass": "Beer Glass",
@@ -18206,76 +6051,10 @@ export const totalRecipe = [
         "name": "Bacardi Limon",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b00473e1-9b2f-4d6f-9d49-511da864bf46",
     "name": "Lady Love Fizz",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -18311,56 +6090,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2ca5444c-3c90-42a2-9832-356312186a42",
     "name": "Long Island Tea",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -18396,56 +6129,10 @@ export const totalRecipe = [
         "name": "Coca-Cola",
         "amount": "1 splash ",
         "ingDescription": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.\r\n\r\nThe Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical 12-US-fluid-ounce (350 ml) can contains 38 grams (1.3 oz) of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.\r\n\r\nThe Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Based on Interbrand's \"best global brand\" study of 2015, Coca-Cola was the world's third most valuable brand, after Apple and Google. In 2013, Coke products were sold in over 200 countries worldwide, with consumers downing more than 1.8 billion company beverage servings each day."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "af113462-3589-44e7-827b-283a09b4299c",
     "name": "Lone Tree Cooler",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -18481,56 +6168,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "68e144c9-fc58-4950-8d91-748990110a20",
     "name": "Lone Tree Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -18546,76 +6187,10 @@ export const totalRecipe = [
         "name": "Gin",
         "amount": "1 1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "50a38e3b-6922-4a0b-8880-cfe22e456bb9",
     "name": "Long Island Iced Tea",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -18651,56 +6226,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "Twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "06a65948-0424-4245-9ae2-38b2c28b8308",
     "name": "Lassi - A South Indian Drink",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -18731,61 +6260,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": "1/4 tsp dried ",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "42843b1f-76a5-40f3-8b20-15f4c6616eed",
     "name": "Melya",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -18806,71 +6284,10 @@ export const totalRecipe = [
         "name": "Cocoa powder",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "fb6c41fa-ad64-4b52-8f32-0d4dcb024ced",
     "name": "Mojito",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -18901,61 +6318,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c0ec27c7-66fd-4674-8767-a41152042622",
     "name": "Mimosa",
     "category": "Ordinary Drink",
     "glass": "Champagne flute",
@@ -18971,76 +6337,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "78af8b79-07b2-4043-829d-e30afa09a706",
     "name": "Mai Tai",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -19071,61 +6371,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "995d6e87-8b47-4dec-a183-6db41f3a0fcf",
     "name": "Martini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -19146,71 +6395,10 @@ export const totalRecipe = [
         "name": "Olive",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6d0768a0-7cb2-43e2-aafe-f58569af9964",
     "name": "Margarita",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -19236,66 +6424,10 @@ export const totalRecipe = [
         "name": "Salt",
         "amount": "",
         "ingDescription": "Table salt or common salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt or halite. Salt is present in vast quantities in seawater, where it is the main mineral constituent. The open ocean has about 35 grams (1.2 oz) of solids per litre, a salinity of 3.5%.\r\n\r\nSalt is essential for life in general, and saltiness is one of the basic human tastes. The tissues of animals contain larger quantities of salt than do plant tissues. Salt is one of the oldest and most ubiquitous food seasonings, and salting is an important method of food preservation.\r\n\r\nSome of the earliest evidence of salt processing dates to around 8,000 years ago, when people living in the area of present-day Romania boiled spring water to extract salts; a salt-works in China dates to approximately the same period. Salt was also prized by the ancient Hebrews, the Greeks, the Romans, the Byzantines, the Hittites, Egyptians, and the Indians. Salt became an important article of trade and was transported by boat across the Mediterranean Sea, along specially built salt roads, and across the Sahara on camel caravans. The scarcity and universal need for salt have led nations to go to war over it and use it to raise tax revenues. Salt is used in religious ceremonies and has other cultural significance.\r\n\r\nSalt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools. Its major industrial products are caustic soda and chlorine; salt is used in many industrial processes including the manufacture of polyvinyl chloride, plastics, paper pulp and many other products. Of the annual global production of around two hundred million tonnes of salt, only about 6% is used for human consumption. Other uses include water conditioning processes, de-icing highways, and agricultural use. Edible salt is sold in forms such as sea salt and table salt which usually contains an anti-caking agent and may be iodised to prevent iodine deficiency. As well as its use in cooking and at the table, salt is present in many processed foods.\r\n\r\nSodium is an essential nutrient for human health via its role as an electrolyte and osmotic solute. Excessive salt consumption may increase the risk of cardiovascular diseases, such as hypertension, in children and adults. Such health effects of salt have long been studied. Accordingly, numerous world health associations and experts in developed countries recommend reducing consumption of popular salty foods. The World Health Organization recommends that adults should consume less than 2,000 mg of sodium, equivalent to 5 grams of salt per day."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8ac70f1d-2132-4655-9f9e-b011c42d43be",
     "name": "Manhattan",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -19331,56 +6463,10 @@ export const totalRecipe = [
         "name": "Orange peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f631fdf6-767c-41df-93e9-80bc73e0b82f",
     "name": "Mojito #3",
     "category": "Cocktail",
     "glass": "Collins glass",
@@ -19411,61 +6497,10 @@ export const totalRecipe = [
         "name": "Angostura bitters",
         "amount": "8 drops ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6e1e3a7e-2f42-4b28-823e-00caf00c04cb",
     "name": "Miami Vice",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -19486,71 +6521,10 @@ export const totalRecipe = [
         "name": "Daiquiri mix",
         "amount": "frozen ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "98069e83-f92d-4eb1-abf8-8160f33e6b9b",
     "name": "Mudslinger",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -19571,71 +6545,10 @@ export const totalRecipe = [
         "name": "Pepsi Cola",
         "amount": "750 ml ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8fce7090-4b1f-4ecb-b299-17fd53036a8a",
     "name": "Moranguito",
     "category": "Shot",
     "glass": "Shot glass",
@@ -19656,71 +6569,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1/5 ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f87e5849-42c7-42af-a9d9-945e45c26337",
     "name": "Mint Julep",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -19746,66 +6598,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "2 tsp ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6edf3c8e-b977-43ce-a312-813f59421ce3",
     "name": "Martinez 2",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -19831,66 +6627,10 @@ export const totalRecipe = [
         "name": "Angostura Bitters",
         "amount": "2 dashes",
         "ingDescription": "Angostura bitters (English: /æŋɡəˈstjʊərə/) is a concentrated bitters, or botanically infused alcoholic mixture, made of water, 44.7% ethanol, gentian, herbs and spices by House of Angostura in Trinidad and Tobago. It is typically used for flavouring beverages or (less often) food. The bitters were first produced in the town of Angostura (Ciudad Bolívar, Venezuela) (hence the name), but do not contain angostura bark. The bottle is easily recognisable by its distinctive oversized label.\r\n\r\nThe recipe was developed as a tonic by a German, Johann Gottlieb Benjamin Siegert (1796–1870), surgeon general in Simón Bolívar's army in Venezuela. Siegert began to sell it in 1824 and established a distillery for the purpose in 1830. Siegert was based in the town of Angostura, now Ciudad Bolívar, and used locally available ingredients, perhaps aided by botanical knowledge of the local Amerindians. The product was sold abroad from 1853, and in 1875 the plant was moved from Ciudad Bolivar to Port of Spain, Trinidad, where it remains. Angostura won a medal at the Weltausstellung 1873 Wien. The medal is still depicted on the oversized label, along with reverse which shows Emperor Franz Joseph I of Austria in profile.\r\n\r\nThe exact formula is a closely guarded secret, with only one person knowing the whole recipe, passed hereditarily.\r\n\r\nAngostura bitters are extremely concentrated and are an acquired taste; though 44.7% alcohol by volume, bitters are not normally ingested undiluted, but instead are used in small amounts as flavouring.\r\n\r\nAngostura bitters are a key ingredient in many cocktails. Originally used to help with upset stomachs of the soldiers in the Simón Bolívar army, it later became popular in soda water and was usually served with gin. The mix stuck in the form of a pink gin, and is also used in many other alcoholic cocktails such as long vodka, consisting of vodka, Angostura bitters, and lemonade. In the United States, it is best known for its use in whiskey cocktails: the Old Fashioned, made with whiskey, bitters, sugar, and water,[8] and the Manhattan, made usually with rye whiskey and sweet vermouth. In a Pisco Sour a few drops are sprinkled on top of the foam, both for aroma and decoration. In a Champagne Cocktail a few drops of bitters are added to a sugar cube.\r\n\r\nIn Hong Kong, Angostura bitters are included in the local Gunner cocktail. Though not in the classic recipe, bartenders sometimes add more flavour to the Mojito cocktail by sprinkling a few drops of Angostura bitters on top. Bitters can also be used in \"soft\" drinks; a common drink served in Australian and New Zealand pubs is lemon lime and bitters.\r\n\r\nAngostura Bitters Drink Guide, a promotional booklet of 1908, was reprinted in 2008 with a new introduction by Ross Bolton."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9b01c6d1-183a-4563-98cb-d9ef08e41786",
     "name": "Masala Chai",
     "category": "Coffee / Tea",
     "glass": "Coffee Mug",
@@ -19941,41 +6681,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": " ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "383adf5b-1568-4630-a802-1ca4f8da1a3c",
     "name": "Mulled Wine",
     "category": "Punch / Party Drink",
     "glass": "Collins Glass",
@@ -20016,51 +6725,10 @@ export const totalRecipe = [
         "name": "Brandy",
         "amount": "1/4 cup ",
         "ingDescription": "Brandy is a spirit produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically taken as an after-dinner drink. Some brandies are aged in wooden casks, some are coloured with caramel colouring to imitate the effect of aging, and some brandies are produced using a combination of both aging and colouring.\r\n\r\nIn broader sense, the term \"brandy\" also denotes liquors obtained from distillation of pomace (pomace brandy) or mash or wine of any other fruit (fruit brandy). These products are also named eaux-de-vie.\r\n\r\nVarieties of wine brandy can be found across the winemaking world. Among the most renowned are Cognac and Armagnac from southwestern France.\r\n\r\nThe origins of brandy were clearly tied to the development of distillation. While the process was known in classical times, it wasn't used for significant beverage production until the 15th century.\r\n\r\nInitially wine was distilled as a preservation method and as a way to make it easier for merchants to transport. It is also thought that wine was originally distilled to lessen the tax which was assessed by volume. The intent was to add the water removed by distillation back to the brandy shortly before consumption. It was discovered that after having been stored in wooden casks, the resulting product had improved over the original distilled spirit. In addition to removing water, the distillation process led to the formation and decomposition of numerous aromatic compounds, fundamentally altering the composition of the distillate from its source. Non-volatile substances such as pigments, sugars, and salts remained behind in the still. As a result, the taste of the distillate was often quite unlike that of the original source.\r\n\r\nAs described in the 1728 edition of Cyclopaedia, the following method was used to distill brandy:\r\n\r\nA cucurbit was filled half full of the liquor from which brandy was to be drawn and then raised with a little fire until about one sixth part was distilled, or until that which falls into the receiver was entirely flammable. This liquor, distilled only once, was called spirit of wine or brandy. Purified by another distillation (or several more), this was then called spirit of wine rectified. The second distillation was made in balneo mariae and in a glass cucurbit, and the liquor was distilled to about one half the quantity. This was further rectified—as long as the operator thought necessary—to produce brandy.\r\n\r\nTo shorten these several distillations, which were long and troublesome, a chemical instrument was invented that reduced them to a single distillation. To test the purity of the rectified spirit of wine, a portion was ignited. If the entire contents were consumed by a fire without leaving any impurities behind, then the liquor was good. Another, better test involved putting a little gunpowder in the bottom of the spirit. If the gunpowder could ignite after the spirit was consumed by fire, then the liquor was good.\r\n\r\nAs most brandies have been distilled from grapes, the regions of the world producing excellent brandies have roughly paralleled those areas producing grapes for viniculture. At the end of the 19th century, the western European markets, including by extension their overseas empires, were dominated by French and Spanish brandies and eastern Europe was dominated by brandies from the Black Sea region, including Bulgaria, the Crimea, and Georgia. In 1884, David Sarajishvili founded his brandy factory in Tbilisi, Georgia, a crossroads for Turkish, Central Asian, and Persian trade routes and a part of the Russian Empire at the time. Armenian and Georgian brandies, called cognacs in the era, were considered some of the best in the world and often beat their French competitors at the International Expositions in Paris and Brussels in the early 1900s.[citation needed] The storehouses of the Romanov Court in St. Petersburg were regarded as the largest collections of cognacs and wines in the world with much of it from the Transcaucasus region of Georgia. During the October Revolution of 1917, upon the storming of the Winter Palace, the Bolshevik Revolution actually paused for a week or so as the participants gorged on the substantial stores of cognac and wines. The Russian market was always a huge brandy-consuming region in which home-grown varieties were common but much of it was imported. The patterns of bottles followed that of the western European norm. Throughout the Soviet era, the production of brandy was a source of pride for the communist regime as they continued to produce some excellent varieties, especially the most famous Jubilee Brandies of 1967, 1977, and 1987.[citation needed] Remaining bottles of these productions are highly sought after, not simply for their quality, but for their historical significance."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "36793446-d6a7-424c-bfe0-1e141702db89",
     "name": "Moscow Mule",
     "category": "Punch / Party Drink",
     "glass": "Copper Mug",
@@ -20081,71 +6749,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": "8 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "693c0ea4-0e41-4b33-be1e-6b74a0db03c7",
     "name": "Mocha-Berry",
     "category": "Coffee / Tea",
     "glass": "Irish coffee cup",
@@ -20171,66 +6778,10 @@ export const totalRecipe = [
         "name": "Whipped cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "25d0bd77-377a-4465-b2ff-031efafb12ec",
     "name": "Monkey Gland",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -20256,66 +6807,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "1 tsp ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "24966269-20f3-4bd5-a434-8d74b367c154",
     "name": "Monkey Wrench",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -20336,71 +6831,10 @@ export const totalRecipe = [
         "name": "Bitters",
         "amount": "1 dash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0b579d3e-a47f-4eef-b67c-fdcdba5f4543",
     "name": "Midnight Manx",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -20431,61 +6865,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "2 oz Hazlenut ",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "67db91ef-f5a6-4621-a077-a8e05ad2e32c",
     "name": "Mother's Milk",
     "category": "Shot",
     "glass": "Shot glass",
@@ -20506,71 +6889,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "1 oz ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ea50f34f-6e9c-4ed9-a383-86c945996518",
     "name": "Midnight Mint",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -20591,71 +6913,10 @@ export const totalRecipe = [
         "name": "Cream",
         "amount": "3/4 oz double ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c4aa16ef-8ffc-4fd3-b99a-1846c99c2dd5",
     "name": "Mary Pickford",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -20686,61 +6947,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e2c07172-99f6-4d84-86c3-28a0909893ec",
     "name": "Malibu Twister",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -20761,71 +6971,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d2eece7c-e4ca-46c5-8e71-083f7c6b39a9",
     "name": "Midnight Cowboy",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -20846,71 +6995,10 @@ export const totalRecipe = [
         "name": "Heavy cream",
         "amount": "1/2 oz ",
         "ingDescription": "Cream is a dairy product composed of the higher-butterfat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, will eventually rise to the top. In the industrial production of cream, this process is accelerated by using centrifuges called \"separators\". In many countries, cream is sold in several grades depending on the total butterfat content. Cream can be dried to a powder for shipment to distant markets. Cream has high levels of saturated fat.\r\n\r\nCream skimmed from milk may be called \"sweet cream\" to distinguish it from whey cream skimmed from whey, a by-product of cheese-making. Whey cream has a lower fat content and tastes more salty, tangy and \"cheesy\".[3] In many countries, cream is usually sold partially fermented: sour cream, crème fraîche, and so on.\r\n\r\nCream has many culinary uses in sweet, bitter, salty and tangy dishes.\r\n\r\nCream produced by cattle (particularly Jersey cattle) grazing on natural pasture often contains some natural carotenoid pigments derived from the plants they eat; this gives the cream a slight yellow tone, hence the name of the yellowish-white color, cream. This is also the origin of butter's yellow color. Cream from goat's milk, or from cows fed indoors on grain or grain-based pellets, is white."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a06274ce-9833-4e12-9267-8ee6e918d751",
     "name": "Negroni",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -20931,71 +7019,10 @@ export const totalRecipe = [
         "name": "Sweet Vermouth",
         "amount": "1 oz ",
         "ingDescription": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became popular with bartenders as a key ingredient in many classic cocktails that have survived to date, such as the Martini, the Manhattan, the Rob Roy, and the Negroni. In addition to being consumed as an aperitif or cocktail ingredient, vermouth is sometimes used as an alternative white wine in cooking.\r\n\r\nHistorically, there have been two main types of vermouth: sweet and dry. Responding to demand and competition, vermouth manufacturers have created additional styles, including extra-dry white, sweet white (bianco), red, amber (ambre or rosso), and rosé. Vermouth is produced by starting with a base of a neutral grape wine or unfermented wine must. Each manufacturer adds additional alcohol and a proprietary mixture of dry ingredients, consisting of aromatic herbs, roots, and barks, to the base wine, base wine plus spirit or spirit only – which may be redistilled before adding to the wine or unfermented wine must. After the wine is aromatized and fortified, the vermouth is sweetened with either cane sugar or caramelized sugar, depending on the style. Italian and French companies produce most of the vermouth consumed throughout the world, although the United States and the United Kingdom are also producers."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0b6bfe25-478b-4172-9dc8-9ff4a91b9c78",
     "name": "New York Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -21031,56 +7058,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c74f8326-dbd3-4fef-acb9-a8dbdcd49348",
     "name": "Nutty Irishman",
     "category": "Milk / Float / Shake",
     "glass": "Highball Glass",
@@ -21101,71 +7082,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "1 part ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "265619ce-3b65-42b8-b2fb-c1558971a420",
     "name": "National Aquarium",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -21201,56 +7121,10 @@ export const totalRecipe = [
         "name": "Lemon-lime soda",
         "amount": "1 splash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5574d429-07bd-47cf-83eb-f48e6201bced",
     "name": "New York Lemonade",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -21276,66 +7150,10 @@ export const totalRecipe = [
         "name": "Club soda",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1a4aca92-0c7e-4d5a-af93-7a4c0ce8eeb3",
     "name": "Nuked Hot Chocolate",
     "category": "Cocoa",
     "glass": "Coffee mug",
@@ -21361,66 +7179,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "12 oz ",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "996ed4e7-9ddb-4e85-a3ba-5b3a9cef9581",
     "name": "Orgasm",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -21451,61 +7213,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "afec990b-b76c-4d9f-aaf4-1be29b1c4115",
     "name": "Old Pal",
     "category": "Cocktail",
     "glass": "Nick and Nora Glass",
@@ -21526,71 +7237,10 @@ export const totalRecipe = [
         "name": "Dry Vermouth",
         "amount": "1 oz",
         "ingDescription": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became popular with bartenders as a key ingredient in many classic cocktails that have survived to date, such as the Martini, the Manhattan, the Rob Roy, and the Negroni. In addition to being consumed as an aperitif or cocktail ingredient, vermouth is sometimes used as an alternative white wine in cooking.\r\n\r\nHistorically, there have been two main types of vermouth: sweet and dry. Responding to demand and competition, vermouth manufacturers have created additional styles, including extra-dry white, sweet white (bianco), red, amber (ambre or rosso), and rosé. Vermouth is produced by starting with a base of a neutral grape wine or unfermented wine must. Each manufacturer adds additional alcohol and a proprietary mixture of dry ingredients, consisting of aromatic herbs, roots, and barks, to the base wine, base wine plus spirit or spirit only – which may be redistilled before adding to the wine or unfermented wine must. After the wine is aromatized and fortified, the vermouth is sweetened with either cane sugar or caramelized sugar, depending on the style. Italian and French companies produce most of the vermouth consumed throughout the world, although the United States and the United Kingdom are also producers."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "feb199d4-b731-4adb-b5dd-1de1ff5e557c",
     "name": "Orangeade",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -21616,66 +7266,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4dfe90b8-109b-4a87-b50b-50b7c4561431",
     "name": "Orange Whip",
     "category": "Other/Unknown",
     "glass": "Collins Glass",
@@ -21706,61 +7300,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "Over ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "fcc63cd4-1f3c-4fd6-be35-aa5ba63031d0",
     "name": "Orange Oasis",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -21786,66 +7329,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d383e86c-ea4f-4049-8992-cdc2b8e77d5a",
     "name": "Orange Crush",
     "category": "Shot",
     "glass": "Shot glass",
@@ -21866,71 +7353,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "cc37c911-5b51-4827-83ca-10b00f909857",
     "name": "Old Fashioned",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -21956,66 +7382,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "dash",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a2c48fc7-6c1d-48cf-9b0d-e92bdaae53be",
     "name": "Oreo Mudslide",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -22046,61 +7416,10 @@ export const totalRecipe = [
         "name": "Oreo cookie",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5fb97e38-c5b6-4509-9e0a-09aed9aebe55",
     "name": "Orange Push-up",
     "category": "Ordinary Drink",
     "glass": "Hurricane glass",
@@ -22126,66 +7445,10 @@ export const totalRecipe = [
         "name": "Sour mix",
         "amount": "1 splash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bb332439-3893-40ef-a9a1-66004a84ec49",
     "name": "Oatmeal Cookie",
     "category": "Cocktail",
     "glass": "Mason jar",
@@ -22216,61 +7479,10 @@ export const totalRecipe = [
         "name": "Goldschlager",
         "amount": "1/2 part",
         "ingDescription": "Goldschläger is a Swiss cinnamon schnapps (43.5% alcohol by volume or 87 proof; originally it was 53.5% alcohol or 107 proof),[1] a liqueur with very thin, yet visible flakes of gold floating in it. The actual amount of gold has been measured at approximately 13 mg in a 1-Litre bottle of Goldschläger.[2] As of July 2016 this amounts to €0.55 EUR or lower on the international gold market.[3]\r\n\r\nGoldschläger was produced in Switzerland until the 1990s, when the brand was acquired by Diageo, which continued production of Goldschläger schnapps in Italy.[1] Since 2008 it is a brand of Global Brands[4] and produced in Switzerland again.[5] The German word Goldschläger (\"gold beater\"[6]) designates the profession of gold leaf makers, who beat bars of gold into micrometre-thin sheets."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2a32556c-3f8f-4e23-aa1f-7f6d5a1e12fc",
     "name": "Orange Scented Hot Chocolate",
     "category": "Cocoa",
     "glass": "Coffee mug",
@@ -22301,61 +7513,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "1/8 tsp ground ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "91a73dba-9bd5-48a3-aa89-b75bc73fdd71",
     "name": "Owen's Grandmother's Revenge",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -22381,66 +7542,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "1 cup crushed ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "90f2d19e-6eaf-4ef1-98b6-8a806986ffc4",
     "name": "Paloma",
     "category": "Cocktail",
     "glass": "Collins glass",
@@ -22456,76 +7561,10 @@ export const totalRecipe = [
         "name": "Tequila",
         "amount": "1 1/2 oz",
         "ingDescription": "Tequila (Spanish pronunciation: [teˈkila] (About this sound listen)) is a regionally specific distilled beverage and type of alcoholic drink made from the blue agave plant, primarily in the area surrounding the city of Tequila, 65 km (40 mi) northwest of Guadalajara, and in the highlands (Los Altos) of the central western Mexican state of Jalisco. Aside from differences in region of origin, tequila is a type of mezcal (and the regions of production of the two drinks are overlapping). The distinction in the method of production is that tequila must use only blue agave plants rather than any type of agave. Tequila is commonly served neat in Mexico and as a shot with salt and lime across the rest of the world.\r\n\r\nThe red volcanic soil in the region around the city of Tequila is particularly well suited to the growing of the blue agave, and more than 300 million of the plants are harvested there each year. Agave grows differently depending on the region. Blue agaves grown in the highlands Los Altos region are larger in size and sweeter in aroma and taste. Agaves harvested in the lowlands, on the other hand, have a more herbaceous fragrance and flavor.\r\n\r\nMexican laws state that tequila can only be produced in the state of Jalisco and limited municipalities in the states of Guanajuato, Michoacán, Nayarit, and Tamaulipas. Tequila is recognized as a Mexican designation of origin product in more than 40 countries. It is protected through NAFTA in Canada and the United States,[6] through bilateral agreements with individual countries such as Japan and Israel, and has been a protected designation of origin product in the constituent countries of the European Union since 1997.\r\n\r\nTequila contains alcohol (also known formally as ethanol) and is most often made at a 38% alcohol content (76 U.S. proof) for domestic consumption, but can be produced between 31 and 55% alcohol content (62 and 110 U.S. proof). Per U.S law, tequila must contain at least 40% alcohol (80 U.S. proof) to be sold in the United States."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "055524b7-4e28-40a7-938f-10c7ebf4e05f",
     "name": "Pink Gin",
     "category": "Ordinary Drink",
     "glass": "White wine glass",
@@ -22541,76 +7580,10 @@ export const totalRecipe = [
         "name": "Gin",
         "amount": "2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "62ce8139-a687-4d81-9d3a-bbb6f97183da",
     "name": "Paradise",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -22631,71 +7604,10 @@ export const totalRecipe = [
         "name": "Orange Juice",
         "amount": "3 parts ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a4ae6932-186b-4845-8a57-da5e6615c245",
     "name": "Pink Lady",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -22721,66 +7633,10 @@ export const totalRecipe = [
         "name": "Egg white",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "246f02e1-3a4d-4aa4-b650-3824c3a2da9d",
     "name": "Pegu Club",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -22811,61 +7667,10 @@ export const totalRecipe = [
         "name": "Orange Bitters",
         "amount": "1 dash",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5b3fe1c1-39fa-40c1-a6ef-56742fac7a37",
     "name": "Pisco Sour",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -22891,66 +7696,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1156d04c-1fb4-41c1-9e9d-b27241a74d70",
     "name": "Porto flip",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -22971,71 +7720,10 @@ export const totalRecipe = [
         "name": "Egg Yolk",
         "amount": "2 parts",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "0153a5ae-0f34-4b0d-9fbd-a443b1a62cce",
     "name": "Penicillin",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -23066,61 +7754,10 @@ export const totalRecipe = [
         "name": "Islay single malt Scotch",
         "amount": "1/4 oz",
         "ingDescription": "Scotch whisky (Scottish Gaelic: uisge-beatha na h-Alba; often simply called Scotch) is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\r\n\r\nAll Scotch whisky was originally made from malted barley. Commercial distilleries began introducing whisky made from wheat and rye in the late 18th century. Scotch whisky is divided into five distinct categories: single malt Scotch whisky, single grain Scotch whisky, blended malt Scotch whisky (formerly called \"vatted malt\" or \"pure malt\"), blended grain Scotch whisky, and blended Scotch whisky."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4b5d51af-4451-4905-ab91-125692c36090",
     "name": "Pina Colada",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -23141,71 +7778,10 @@ export const totalRecipe = [
         "name": "Pineapple",
         "amount": "3 tblsp ",
         "ingDescription": "The pineapple (Ananas comosus) is a tropical plant with an edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.\r\n\r\nPineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 5–10 months and fruiting in the following six months. Pineapples do not ripen significantly after harvest.\r\n\r\nPineapples can be consumed fresh, cooked, juiced, or preserved. They are found in a wide array of cuisines. In addition to consumption, the pineapple leaves are used to produce the textile fiber piña in the Philippines, commonly used as the material for the men's barong Tagalog and women's baro't saya formal wear in the country. The fiber is also used as a component for wallpaper and other furnishings."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9efaa55c-5f80-4fcb-a699-183e90286d6c",
     "name": "Pink Penocha",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -23236,61 +7812,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "1 gal ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c1e5fcb0-fe46-42a7-b699-dc12d57902f8",
     "name": "Popped cherry",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -23316,66 +7841,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "4 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9c2ce7a6-e9a9-424e-8b6d-b88f375f2610",
     "name": "Poppy Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -23391,76 +7860,10 @@ export const totalRecipe = [
         "name": "Creme de Cacao",
         "amount": "3/4 oz white ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "28d3b73f-e52d-4b1f-9e40-2384cdc705a5",
     "name": "Port Wine Flip",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -23491,61 +7894,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b2034206-3b6b-47c7-abc9-a219fc090145",
     "name": "Planter's Punch",
     "category": "Punch / Party Drink",
     "glass": "Collins glass",
@@ -23571,66 +7923,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "fcaebe57-5842-4792-8035-c83c37c8f8fe",
     "name": "Port And Starboard",
     "category": "Ordinary Drink",
     "glass": "Pousse cafe glass",
@@ -23646,76 +7942,10 @@ export const totalRecipe = [
         "name": "Green Creme de Menthe",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9cdc049c-c4d5-47de-b77c-f7b466f43d10",
     "name": "Port Wine Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -23731,76 +7961,10 @@ export const totalRecipe = [
         "name": "Brandy",
         "amount": "1/2 tsp ",
         "ingDescription": "Brandy is a spirit produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically taken as an after-dinner drink. Some brandies are aged in wooden casks, some are coloured with caramel colouring to imitate the effect of aging, and some brandies are produced using a combination of both aging and colouring.\r\n\r\nIn broader sense, the term \"brandy\" also denotes liquors obtained from distillation of pomace (pomace brandy) or mash or wine of any other fruit (fruit brandy). These products are also named eaux-de-vie.\r\n\r\nVarieties of wine brandy can be found across the winemaking world. Among the most renowned are Cognac and Armagnac from southwestern France.\r\n\r\nThe origins of brandy were clearly tied to the development of distillation. While the process was known in classical times, it wasn't used for significant beverage production until the 15th century.\r\n\r\nInitially wine was distilled as a preservation method and as a way to make it easier for merchants to transport. It is also thought that wine was originally distilled to lessen the tax which was assessed by volume. The intent was to add the water removed by distillation back to the brandy shortly before consumption. It was discovered that after having been stored in wooden casks, the resulting product had improved over the original distilled spirit. In addition to removing water, the distillation process led to the formation and decomposition of numerous aromatic compounds, fundamentally altering the composition of the distillate from its source. Non-volatile substances such as pigments, sugars, and salts remained behind in the still. As a result, the taste of the distillate was often quite unlike that of the original source.\r\n\r\nAs described in the 1728 edition of Cyclopaedia, the following method was used to distill brandy:\r\n\r\nA cucurbit was filled half full of the liquor from which brandy was to be drawn and then raised with a little fire until about one sixth part was distilled, or until that which falls into the receiver was entirely flammable. This liquor, distilled only once, was called spirit of wine or brandy. Purified by another distillation (or several more), this was then called spirit of wine rectified. The second distillation was made in balneo mariae and in a glass cucurbit, and the liquor was distilled to about one half the quantity. This was further rectified—as long as the operator thought necessary—to produce brandy.\r\n\r\nTo shorten these several distillations, which were long and troublesome, a chemical instrument was invented that reduced them to a single distillation. To test the purity of the rectified spirit of wine, a portion was ignited. If the entire contents were consumed by a fire without leaving any impurities behind, then the liquor was good. Another, better test involved putting a little gunpowder in the bottom of the spirit. If the gunpowder could ignite after the spirit was consumed by fire, then the liquor was good.\r\n\r\nAs most brandies have been distilled from grapes, the regions of the world producing excellent brandies have roughly paralleled those areas producing grapes for viniculture. At the end of the 19th century, the western European markets, including by extension their overseas empires, were dominated by French and Spanish brandies and eastern Europe was dominated by brandies from the Black Sea region, including Bulgaria, the Crimea, and Georgia. In 1884, David Sarajishvili founded his brandy factory in Tbilisi, Georgia, a crossroads for Turkish, Central Asian, and Persian trade routes and a part of the Russian Empire at the time. Armenian and Georgian brandies, called cognacs in the era, were considered some of the best in the world and often beat their French competitors at the International Expositions in Paris and Brussels in the early 1900s.[citation needed] The storehouses of the Romanov Court in St. Petersburg were regarded as the largest collections of cognacs and wines in the world with much of it from the Transcaucasus region of Georgia. During the October Revolution of 1917, upon the storming of the Winter Palace, the Bolshevik Revolution actually paused for a week or so as the participants gorged on the substantial stores of cognac and wines. The Russian market was always a huge brandy-consuming region in which home-grown varieties were common but much of it was imported. The patterns of bottles followed that of the western European norm. Throughout the Soviet era, the production of brandy was a source of pride for the communist regime as they continued to produce some excellent varieties, especially the most famous Jubilee Brandies of 1967, 1977, and 1987.[citation needed] Remaining bottles of these productions are highly sought after, not simply for their quality, but for their historical significance."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ca80adc7-d3a3-40e0-ab07-5b4e19e023dd",
     "name": "Pysch Vitamin Light",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -23826,66 +7990,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "94fcbac9-79f9-46bc-8fd4-0f9c17a93a4c",
     "name": "Pink Panty Pulldowns",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -23906,71 +8014,10 @@ export const totalRecipe = [
         "name": "Vodka",
         "amount": "2 cups ",
         "ingDescription": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitri Mendeleev. The European Union has established a minimum of 37.5% ABV for any \"European vodka\" to be named as such. Products sold as \"vodka\" in the United States must have a minimum alcohol content of 40%. Even with these loose restrictions, most vodka sold contains 40% ABV. For homemade vodkas and distilled beverages referred to as \"moonshine\", see moonshine by country.\r\n\r\nVodka is traditionally drunk neat (not mixed with any water, ice, or other mixer), though it is often served chilled in the vodka belt countries (Belarus, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Poland, Russia, Sweden, Ukraine). It is also commonly used in cocktails and mixed drinks, such as the vodka martini, Cosmopolitan, vodka tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, and Bloody Mary.\r\n\r\nScholars debate the beginnings of vodka. It is a contentious issue because very little historical material is available. For many centuries, beverages differed significantly compared to the vodka of today, as the spirit at that time had a different flavor, color and smell, and was originally used as medicine. It contained little alcohol, an estimated maximum of about 14%, as only this amount can be attained by natural fermentation. The still, allowing for distillation (\"burning of wine\"), increased purity, and increased alcohol content, was invented in the 8th century.\r\n\r\nA common property of the vodkas produced in the United States and Europe is the extensive use of filtration prior to any additional processing including the addition of flavorants. Filtering is sometimes done in the still during distillation, as well as afterwards, where the distilled vodka is filtered through activated charcoal and other media to absorb trace amounts of substances that alter or impart off-flavors to the vodka. However, this is not the case in the traditional vodka-producing nations, so many distillers from these countries prefer to use very accurate distillation but minimal filtering, thus preserving the unique flavors and characteristics of their products.\r\n\r\nThe master distiller is in charge of distilling the vodka and directing its filtration, which includes the removal of the \"fore-shots\", \"heads\" and \"tails\". These components of the distillate contain flavor compounds such as ethyl acetate and ethyl lactate (heads) as well as the fusel oils (tails) that impact the usually desired clean taste of vodka. Through numerous rounds of distillation, or the use of a fractioning still, the taste is modified and clarity is increased. In contrast, distillery process for liquors such as whiskey, rum, and baijiu allow portions of the \"heads\" and \"tails\" to remain, giving them their unique flavors.\r\n\r\nRepeated distillation of vodka will make its ethanol level much higher than is acceptable to most end users, whether legislation determines strength limits or not. Depending on the distillation method and the technique of the stillmaster, the final filtered and distilled vodka may have as much as 95–96% ethanol. As such, most vodka is diluted with water prior to bottling.\r\n\r\nPolish distilleries make a very pure (96%, 192 proof, formerly also 98%) rectified spirit (Polish language: spirytus rektyfikowany). Technically a form of vodka, it is sold in liquor stores rather than pharmacies. Similarly, the German market often carries German, Hungarian, Polish, and Ukrainian-made varieties of vodka of 90 to 95% ABV. A Bulgarian vodka, Balkan 176°, has an 88% alcohol content. Everclear, an American brand, is also sold at 95% ABV."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "afc1f6f5-0833-43da-a1de-268d559c91d5",
     "name": "Pineapple Gingerale Smoothie",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -23986,76 +8033,10 @@ export const totalRecipe = [
         "name": "Pineapple",
         "amount": "1/2 ",
         "ingDescription": "The pineapple (Ananas comosus) is a tropical plant with an edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.\r\n\r\nPineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 5–10 months and fruiting in the following six months. Pineapples do not ripen significantly after harvest.\r\n\r\nPineapples can be consumed fresh, cooked, juiced, or preserved. They are found in a wide array of cuisines. In addition to consumption, the pineapple leaves are used to produce the textile fiber piña in the Philippines, commonly used as the material for the men's barong Tagalog and women's baro't saya formal wear in the country. The fiber is also used as a component for wallpaper and other furnishings."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5ed0fbeb-c85e-47b2-b7c2-7b28941913dc",
     "name": "Quentin",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24081,66 +8062,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "1/8 tsp grated ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "86c74ef9-6e17-426a-a277-3f684723ec61",
     "name": "Queen Bee",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24161,71 +8086,10 @@ export const totalRecipe = [
         "name": "Sherry",
         "amount": "1/2 oz cream ",
         "ingDescription": "Sherry (English: /ˈʃɛri/, Spanish: Jerez [xeˈɾeθ] or [xeˈɾes]) is a fortified wine made from white grapes that are grown near the city of Jerez de la Frontera in Andalusia, Spain. Sherry is produced in a variety of styles made primarily from the Palomino grape, ranging from light versions similar to white table wines, such as Manzanilla and Fino, to darker and heavier versions that have been allowed to oxidise as they age in barrel, such as Amontillado and Oloroso. Sweet dessert wines are also made from Pedro Ximenez or Moscatel grapes, and are sometimes blended with Palomino-based Sherries.\r\n\r\nThe word \"Sherry\" is an anglicisation of Xeres (Jerez). Sherry was previously known as sack, from the Spanish saca, meaning \"extraction\" from the solera. In Europe, \"Sherry\" has protected designation of origin status, and under Spanish law, all wine labelled as \"Sherry\" must legally come from the Sherry Triangle, an area in the province of Cádiz between Jerez de la Frontera, Sanlúcar de Barrameda, and El Puerto de Santa María. In 1933 the Jerez Denominación de Origen was the first Spanish denominación to be officially recognised in this way, officially named D.O. Jerez-Xeres-Sherry and sharing the same governing council as D.O. Manzanilla Sanlúcar de Barrameda.\r\n\r\nAfter fermentation is complete, the base wines are fortified with grape spirit in order to increase their final alcohol content. Wines classified as suitable for aging as Fino and Manzanilla are fortified until they reach a total alcohol content of 15.5 per cent by volume. As they age in barrel, they develop a layer of flor—a yeast-like growth that helps protect the wine from excessive oxidation. Those wines that are classified to undergo aging as Oloroso are fortified to reach an alcohol content of at least 17 per cent. They do not develop flor and so oxidise slightly as they age, giving them a darker colour. Because the fortification takes place after fermentation, most sherries are initially dry, with any sweetness being added later. In contrast, port wine is fortified halfway through its fermentation, which stops the process so that not all of the sugar is turned into alcohol.\r\n\r\nWines from different years are aged and blended using a solera system before bottling, so that bottles of sherry will not usually carry a specific vintage year and can contain a small proportion of very old wine. Sherry is regarded by many wine writers as \"underappreciated\" and a \"neglected wine treasure\"."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ff16e539-5a19-4f1e-ac45-d9c238bc2b59",
     "name": "Quick F**K",
     "category": "Shot",
     "glass": "Shot glass",
@@ -24246,71 +8110,10 @@ export const totalRecipe = [
         "name": "Bailey's irish cream",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "74f1f0d5-4868-443a-8b2b-1ce8ed05ecc2",
     "name": "Quick-sand",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -24326,76 +8129,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "Add 250 ml ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d6235141-18da-4b99-b0fa-1c4856e12498",
     "name": "Queen Charlotte",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -24416,71 +8153,10 @@ export const totalRecipe = [
         "name": "Lemon-lime soda",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "86c522c1-8ed3-4391-97da-957ab5a6b69a",
     "name": "Queen Elizabeth",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24501,71 +8177,10 @@ export const totalRecipe = [
         "name": "Benedictine",
         "amount": "1 1/2 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8cc05d39-819a-4187-b7c2-997e9b0ded65",
     "name": "Quaker's Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24591,66 +8206,10 @@ export const totalRecipe = [
         "name": "Raspberry syrup",
         "amount": "2 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7a0c0e51-38fb-44e2-9179-a73b2ea60505",
     "name": "Quarter Deck Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24671,71 +8230,10 @@ export const totalRecipe = [
         "name": "Lime",
         "amount": "Juice of 1/2 ",
         "ingDescription": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown year-round. Plants with fruit called \"limes\" have diverse genetic origins; limes do not form a monophyletic group.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a5f235b6-9f08-4066-816a-0bad798bee85",
     "name": "Rose",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -24771,56 +8269,10 @@ export const totalRecipe = [
         "name": "Powdered sugar",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ea3a27b5-a24d-4181-8195-4bbb819373b5",
     "name": "Radler",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -24836,76 +8288,10 @@ export const totalRecipe = [
         "name": "7-Up",
         "amount": "12 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "35582c48-b801-4dab-a315-45abad7bcaf1",
     "name": "Rum Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -24936,61 +8322,10 @@ export const totalRecipe = [
         "name": "Maraschino cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6b343365-ac02-4558-aaa1-33e017d03d81",
     "name": "Rum Toddy",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -25016,66 +8351,10 @@ export const totalRecipe = [
         "name": "Water",
         "amount": "2 tsp ",
         "ingDescription": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous state (steam or water vapor). It also occurs in nature as snow, glaciers, ice packs and icebergs, clouds, fog, dew, aquifers, and atmospheric humidity.\r\n\r\nWater covers 71% of the Earth's surface.[1] It is vital for all known forms of life. On Earth, 96.5% of the planet's crust water is found in seas and oceans, 1.7% in groundwater, 1.7% in glaciers and the ice caps of Antarctica and Greenland, a small fraction in other large water bodies, 0.001% in the air as vapor, clouds (formed of ice and liquid water suspended in air), and precipitation. Only 2.5% of this water is freshwater, and 98.8% of that water is in ice (excepting ice in clouds) and groundwater. Less than 0.3% of all freshwater is in rivers, lakes, and the atmosphere, and an even smaller amount of the Earth's freshwater (0.003%) is contained within biological bodies and manufactured products. A greater quantity of water is found in the earth's interior.\r\n\r\nWater on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea. Evaporation and transpiration contribute to the precipitation over land. Large amounts of water are also chemically combined or adsorbed in hydrated minerals.\r\n\r\nSafe drinking water is essential to humans and other lifeforms even though it provides no calories or organic nutrients. Access to safe drinking water has improved over the last decades in almost every part of the world, but approximately one billion people still lack access to safe water and over 2.5 billion lack access to adequate sanitation. There is a clear correlation between access to safe water and gross domestic product per capita. However, some observers have estimated that by 2025 more than half of the world population will be facing water-based vulnerability. A report, issued in November 2009, suggests that by 2030, in some developing regions of the world, water demand will exceed supply by 50%.\r\n\r\nWater plays an important role in the world economy. Approximately 70% of the freshwater used by humans goes to agriculture. Fishing in salt and fresh water bodies is a major source of food for many parts of the world. Much of long-distance trade of commodities (such as oil and natural gas) and manufactured products is transported by boats through seas, rivers, lakes, and canals. Large quantities of water, ice, and steam are used for cooling and heating, in industry and homes. Water is an excellent solvent for a wide variety of chemical substances; as such it is widely used in industrial processes, and in cooking and washing. Water is also central to many sports and other forms of entertainment, such as swimming, pleasure boating, boat racing, surfing, sport fishing, and diving."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bdcf6a0b-8b9c-4987-9dba-b84433daddc5",
     "name": "Rum Punch",
     "category": "Punch / Party Drink",
     "glass": "Punch bowl",
@@ -25106,61 +8385,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "crushed ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "6504eda6-70bd-4595-883d-0fe3efffc233",
     "name": "Royal Fizz",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -25186,66 +8414,10 @@ export const totalRecipe = [
         "name": "Coca-Cola",
         "amount": "\n",
         "ingDescription": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of Coca-Cola remains a trade secret, although a variety of reported recipes and experimental recreations have been published.\r\n\r\nThe Coca-Cola Company produces concentrate, which is then sold to licensed Coca-Cola bottlers throughout the world. The bottlers, who hold exclusive territory contracts with the company, produce the finished product in cans and bottles from the concentrate, in combination with filtered water and sweeteners. A typical 12-US-fluid-ounce (350 ml) can contains 38 grams (1.3 oz) of sugar (usually in the form of high fructose corn syrup). The bottlers then sell, distribute, and merchandise Coca-Cola to retail stores, restaurants, and vending machines throughout the world. The Coca-Cola Company also sells concentrate for soda fountains of major restaurants and foodservice distributors.\r\n\r\nThe Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Cherry, Coca-Cola Zero, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Based on Interbrand's \"best global brand\" study of 2015, Coca-Cola was the world's third most valuable brand, after Apple and Google. In 2013, Coke products were sold in over 200 countries worldwide, with consumers downing more than 1.8 billion company beverage servings each day."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bc315e46-ff69-488e-a411-d131eb38f82c",
     "name": "Rum Cooler",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -25266,71 +8438,10 @@ export const totalRecipe = [
         "name": "Lemon",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f4127568-f149-4f84-b6b6-bb7767c32956",
     "name": "Rusty Nail",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -25351,71 +8462,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4b18988a-e5e0-4505-bcb3-de2219a7cfcd",
     "name": "Rum Runner",
     "category": "Punch / Party Drink",
     "glass": "Cocktail glass",
@@ -25446,61 +8496,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "3-4 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1eaf0558-5395-4f35-93a2-4269e9680c57",
     "name": "Rum Cobbler",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -25536,56 +8535,10 @@ export const totalRecipe = [
         "name": "Orange",
         "amount": "1 ",
         "ingDescription": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the percentage of pomelo genes varying from ~50% to 6% have been reported.\r\n\r\nSweet oranges were mentioned in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.\r\n\r\nIn 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China and India."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2e73a7b0-f178-477e-9b58-ef86cef188ab",
     "name": "Red Snapper",
     "category": "Shot",
     "glass": "Old-fashioned glass",
@@ -25606,71 +8559,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "1 shot ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9139d029-3733-4d7f-9891-10700d441b59",
     "name": "Royal Flush",
     "category": "Shot",
     "glass": "Old-fashioned glass",
@@ -25696,66 +8588,10 @@ export const totalRecipe = [
         "name": "Cranberry juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3ee95403-b384-4146-af4e-264b6f395ab0",
     "name": "Royal Bitch",
     "category": "Shot",
     "glass": "Shot glass",
@@ -25771,76 +8607,10 @@ export const totalRecipe = [
         "name": "Crown Royal",
         "amount": "1 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3f9650ba-1a21-497f-aadb-3505d760bb81",
     "name": "Ruby Tuesday",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -25861,71 +8631,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "2 splashes ",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "76cafbf1-5c36-48af-b0e6-a6d1a8df9709",
     "name": "Rail Splitter",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -25946,71 +8655,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5ea2a75e-48c4-4779-906a-9f0fcd8c695b",
     "name": "Rosemary Blue",
     "category": "Cocktail",
     "glass": "Balloon Glass",
@@ -26036,66 +8684,10 @@ export const totalRecipe = [
         "name": "Rosemary",
         "amount": "Garnish with",
         "ingDescription": "Rosmarinus officinalis, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.\r\n\r\nIt is a member of the mint family Lamiaceae, which includes many other herbs. The name \"rosemary\" derives from the Latin for \"dew\" (ros) and \"sea\" (marinus), or \"dew of the sea\".[2] The plant is also sometimes called anthos, from the ancient Greek word ἄνθος, meaning \"flower\".[3] Rosemary has a fibrous root system."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f8935f7a-54c6-4c0c-ab2c-d35194647528",
     "name": "Royal Gin Fizz",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -26126,61 +8718,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "05c4f109-0295-4d6e-a54f-060855c2a342",
     "name": "Rum Milk Punch",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -26206,66 +8747,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a1ba3af2-c309-40e5-8575-11d7d82116a9",
     "name": "Rum Screwdriver",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -26281,76 +8766,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "5 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c91a40d0-1fe1-4a95-b8f1-6bb8944aab27",
     "name": "Raspberry Cooler",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -26371,71 +8790,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9e4e2442-a2f5-487e-b13e-22406e4374e4",
     "name": "Rum Old-fashioned",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -26471,56 +8829,10 @@ export const totalRecipe = [
         "name": "Lime peel",
         "amount": "Twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1c5740d0-ba36-4bc3-b721-32fa88ad39f7",
     "name": "Russian Spring Punch",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -26546,66 +8858,10 @@ export const totalRecipe = [
         "name": "Lemon Juice",
         "amount": "2.5 cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9e624987-b50c-4dd1-9963-d4e58d290487",
     "name": "Radioactive Long Island Iced Tea",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -26651,46 +8907,10 @@ export const totalRecipe = [
         "name": "Malibu rum",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9adb2e31-ea88-425e-bd4b-52d29c322d92",
     "name": "Smut",
     "category": "Punch / Party Drink",
     "glass": "Beer mug",
@@ -26716,66 +8936,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "1/3 part ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4cbaf2f7-a746-40fe-9a7a-2a7afa372ff6",
     "name": "Spritz",
     "category": "Ordinary Drink",
     "glass": "Old-Fashioned glass",
@@ -26796,71 +8960,10 @@ export const totalRecipe = [
         "name": "Soda Water",
         "amount": "splash",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9826af0b-c2f7-47c3-92f8-e30e08c417ff",
     "name": "Sazerac",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -26896,56 +8999,10 @@ export const totalRecipe = [
         "name": "Lemon peel",
         "amount": "1 twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8826aab8-35f2-49b2-a1dd-1f7ba83386c2",
     "name": "Scooter",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -26966,71 +9023,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e12bc510-eabd-4bd1-bda5-024c92082296",
     "name": "Sidecar",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -27051,71 +9047,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "72a4f988-b8d5-46b4-b92c-72ef271674f2",
     "name": "Stinger",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -27131,76 +9066,10 @@ export const totalRecipe = [
         "name": "White Creme de Menthe",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "58b74d8e-4550-48a1-b54c-72fb6ed790be",
     "name": "Snowball",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -27226,66 +9095,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b3c826a8-0cf1-4495-a95c-a30ecbba9fa8",
     "name": "Shot-gun",
     "category": "Shot",
     "glass": "Shot glass",
@@ -27306,71 +9119,10 @@ export const totalRecipe = [
         "name": "Wild Turkey",
         "amount": "1 oz ",
         "ingDescription": "Wild Turkey is a brand of Kentucky straight bourbon whiskey distilled and bottled by the Austin Nichols division of Campari Group. The distillery is located near Lawrenceburg, Kentucky, United States. It offers tours, and is part of the American Whiskey Trail and the Kentucky Bourbon Trail.\r\n\r\nIn 1891, Thomas Ripy built the Old Hickory Distillery in Tyrone, Kentucky, near Lawrenceburg, on the former site of the Old Moore Distillery. After Prohibition, the Ripy family (Thomas had died in 1902) repaired the distillery and began to again produce bourbon. The Ripys sold the bourbon produced at this distillery to various wholesalers who bottled bourbon under their own brands. Austin Nichols was one of these wholesalers.\r\n\r\nThe \"Wild Turkey\" brand is said to have arisen after an Austin Nichols executive, Thomas McCarthy, took some warehouse samples on a wild turkey hunting trip in 1940. The bourbon proved so popular among his friends they continued to ask him for \"that wild turkey bourbon.\" Austin Nichols began to bottle Wild Turkey in 1942.\r\n\r\nThe Ripys were bought out in 1949 by Robert and Alvin Gould.\r\n\r\nFor three decades after introducing Wild Turkey, Austin Nichols remained a non-distiller producer—bottling bourbon purchased on the open market under their Wild Turkey brand. Much of this whiskey was purchased from the Ripys/Gould distillery in Tyrone. In 1971, Austin Nichols purchased the facility (then known as the Boulevard Distillery) and changed the name to the Wild Turkey Distillery.\r\n\r\nIn 1980, the distillery and the Wild Turkey brand were purchased by Pernod Ricard.\r\n\r\nOn May 9, 2000, a fire destroyed a seven-story aging warehouse at the company in Anderson County, Kentucky. It contained more than 17,000 wooden barrels of whiskey. Burning whiskey flowed from the warehouse, setting the woods on fire, causing limestone deposits to explode. Firefighters saved Lawrenceburg's water treatment plant from destruction. However, an estimated 20% of the whiskey flowed into the Kentucky River. The river contamination required the temporary shutdown of the water treatment plant. Officials ordered water usage restrictions. Businesses and schools were closed because of the water shortage. The alcohol spill also depleted the oxygen in the river, killing an estimated 228,000 fish along a 66-mile stretch. The EPA and the Coast Guard's Gulf Strike Team aerated the river using equipment mounted on barges.[6] The company paid $256,000 to the Kentucky Department of Fish and Wildlife in an effort to restore the fish population in the river.\r\n\r\nIn 2009, the Campari Group acquired the distillery and the Wild Turkey brand from Pernod Ricard.\r\n\r\nIn 2011, Wild Turkey began to be distilled at a newly constructed facility near the old distillery. The new distillery sits where the old bottling facility was previously located.\r\n\r\nIn 2013, Campari opened a new bottling facility at the Wild Turkey Distillery. For the previous 13 years Wild Turkey had been bottled offsite in Indiana and, later, Arkansas. In addition to the Wild Turkey products, Campari's SKYY vodka is also bottled there after being shipped from the Illinois distillery."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bee04943-2e36-4b58-a571-0a04bdac5d46",
     "name": "Salty Dog",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -27391,71 +9143,10 @@ export const totalRecipe = [
         "name": "Salt",
         "amount": "1/4 tsp ",
         "ingDescription": "Table salt or common salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt or halite. Salt is present in vast quantities in seawater, where it is the main mineral constituent. The open ocean has about 35 grams (1.2 oz) of solids per litre, a salinity of 3.5%.\r\n\r\nSalt is essential for life in general, and saltiness is one of the basic human tastes. The tissues of animals contain larger quantities of salt than do plant tissues. Salt is one of the oldest and most ubiquitous food seasonings, and salting is an important method of food preservation.\r\n\r\nSome of the earliest evidence of salt processing dates to around 8,000 years ago, when people living in the area of present-day Romania boiled spring water to extract salts; a salt-works in China dates to approximately the same period. Salt was also prized by the ancient Hebrews, the Greeks, the Romans, the Byzantines, the Hittites, Egyptians, and the Indians. Salt became an important article of trade and was transported by boat across the Mediterranean Sea, along specially built salt roads, and across the Sahara on camel caravans. The scarcity and universal need for salt have led nations to go to war over it and use it to raise tax revenues. Salt is used in religious ceremonies and has other cultural significance.\r\n\r\nSalt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools. Its major industrial products are caustic soda and chlorine; salt is used in many industrial processes including the manufacture of polyvinyl chloride, plastics, paper pulp and many other products. Of the annual global production of around two hundred million tonnes of salt, only about 6% is used for human consumption. Other uses include water conditioning processes, de-icing highways, and agricultural use. Edible salt is sold in forms such as sea salt and table salt which usually contains an anti-caking agent and may be iodised to prevent iodine deficiency. As well as its use in cooking and at the table, salt is present in many processed foods.\r\n\r\nSodium is an essential nutrient for human health via its role as an electrolyte and osmotic solute. Excessive salt consumption may increase the risk of cardiovascular diseases, such as hypertension, in children and adults. Such health effects of salt have long been studied. Accordingly, numerous world health associations and experts in developed countries recommend reducing consumption of popular salty foods. The World Health Organization recommends that adults should consume less than 2,000 mg of sodium, equivalent to 5 grams of salt per day."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "8b3c7927-d173-4f1a-8b9b-b7d50d635462",
     "name": "Stone Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -27476,71 +9167,10 @@ export const totalRecipe = [
         "name": "Sweet and sour",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "44f211c4-6d22-447f-8484-914b16322e7b",
     "name": "Sangria #1",
     "category": "Punch / Party Drink",
     "glass": "Pitcher",
@@ -27576,56 +9206,10 @@ export const totalRecipe = [
         "name": "Cinnamon",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4a513b8a-40d5-44cd-91d1-f1f97c6eb090",
     "name": "Sea breeze",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -27646,71 +9230,10 @@ export const totalRecipe = [
         "name": "Grapefruit juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "48791111-71bd-4ed2-ad6e-6be7253cdf8f",
     "name": "Scotch Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -27741,61 +9264,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d8a169cf-a59b-43ba-b2a7-a5a3baa161f0",
     "name": "Screwdriver",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -27811,76 +9283,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "656a6094-07a2-4b69-b443-27badb082369",
     "name": "Sherry Flip",
     "category": "Ordinary Drink",
     "glass": "Nick and Nora Glass",
@@ -27911,61 +9317,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "12929357-a7ff-4879-8b27-3426822327bd",
     "name": "Sweet Tooth",
     "category": "Milk / Float / Shake",
     "glass": "Highball Glass",
@@ -27981,76 +9336,10 @@ export const totalRecipe = [
         "name": "Milk",
         "amount": "\n",
         "ingDescription": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after pregnancy. Dairy farms produced about 730 million tonnes of milk in 2011, from 260 million dairy cows. India is the world's largest producer of milk, and is the leading exporter of skimmed milk powder, yet it exports few other milk products. The ever increasing rise in domestic demand for dairy products and a large demand-supply gap could lead to India being a net importer of dairy products in the future. The United States, India, China and Brazil are the world's largest exporters of milk and milk products. China and Russia were the world's largest importers of milk and milk products until 2016 when both countries became self-sufficient, contributing to a worldwide glut of milk.\r\n\r\nThroughout the world, there are more than six billion consumers of milk and milk products. Over 750 million people live in dairy farming households."
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "10f00a23-6732-4385-b713-c4e12cc70bec",
     "name": "Sol Y Sombra",
     "category": "Ordinary Drink",
     "glass": "Brandy snifter",
@@ -28066,76 +9355,10 @@ export const totalRecipe = [
         "name": "Anisette",
         "amount": "1 1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a447c450-d965-4a61-aaa6-177a805696ca",
     "name": "Shark Attack",
     "category": "Cocktail",
     "glass": "Pitcher",
@@ -28156,71 +9379,10 @@ export const totalRecipe = [
         "name": "Vodka",
         "amount": "1 1/2 cup ",
         "ingDescription": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitri Mendeleev. The European Union has established a minimum of 37.5% ABV for any \"European vodka\" to be named as such. Products sold as \"vodka\" in the United States must have a minimum alcohol content of 40%. Even with these loose restrictions, most vodka sold contains 40% ABV. For homemade vodkas and distilled beverages referred to as \"moonshine\", see moonshine by country.\r\n\r\nVodka is traditionally drunk neat (not mixed with any water, ice, or other mixer), though it is often served chilled in the vodka belt countries (Belarus, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Poland, Russia, Sweden, Ukraine). It is also commonly used in cocktails and mixed drinks, such as the vodka martini, Cosmopolitan, vodka tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, and Bloody Mary.\r\n\r\nScholars debate the beginnings of vodka. It is a contentious issue because very little historical material is available. For many centuries, beverages differed significantly compared to the vodka of today, as the spirit at that time had a different flavor, color and smell, and was originally used as medicine. It contained little alcohol, an estimated maximum of about 14%, as only this amount can be attained by natural fermentation. The still, allowing for distillation (\"burning of wine\"), increased purity, and increased alcohol content, was invented in the 8th century.\r\n\r\nA common property of the vodkas produced in the United States and Europe is the extensive use of filtration prior to any additional processing including the addition of flavorants. Filtering is sometimes done in the still during distillation, as well as afterwards, where the distilled vodka is filtered through activated charcoal and other media to absorb trace amounts of substances that alter or impart off-flavors to the vodka. However, this is not the case in the traditional vodka-producing nations, so many distillers from these countries prefer to use very accurate distillation but minimal filtering, thus preserving the unique flavors and characteristics of their products.\r\n\r\nThe master distiller is in charge of distilling the vodka and directing its filtration, which includes the removal of the \"fore-shots\", \"heads\" and \"tails\". These components of the distillate contain flavor compounds such as ethyl acetate and ethyl lactate (heads) as well as the fusel oils (tails) that impact the usually desired clean taste of vodka. Through numerous rounds of distillation, or the use of a fractioning still, the taste is modified and clarity is increased. In contrast, distillery process for liquors such as whiskey, rum, and baijiu allow portions of the \"heads\" and \"tails\" to remain, giving them their unique flavors.\r\n\r\nRepeated distillation of vodka will make its ethanol level much higher than is acceptable to most end users, whether legislation determines strength limits or not. Depending on the distillation method and the technique of the stillmaster, the final filtered and distilled vodka may have as much as 95–96% ethanol. As such, most vodka is diluted with water prior to bottling.\r\n\r\nPolish distilleries make a very pure (96%, 192 proof, formerly also 98%) rectified spirit (Polish language: spirytus rektyfikowany). Technically a form of vodka, it is sold in liquor stores rather than pharmacies. Similarly, the German market often carries German, Hungarian, Polish, and Ukrainian-made varieties of vodka of 90 to 95% ABV. A Bulgarian vodka, Balkan 176°, has an 88% alcohol content. Everclear, an American brand, is also sold at 95% ABV."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f13bf8a6-9f9a-4da7-ac7b-8cb79d059968",
     "name": "Sherry Eggnog",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -28251,61 +9413,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3bb814b9-e054-48a3-9be3-20dd05f04c14",
     "name": "Sweet Bananas",
     "category": "Milk / Float / Shake",
     "glass": "Highball Glass",
@@ -28326,71 +9437,10 @@ export const totalRecipe = [
         "name": "Honey",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "ab497e6d-892a-4133-8741-ae3b19b9154f",
     "name": "Sweet Sangria",
     "category": "Punch / Party Drink",
     "glass": "Pitcher",
@@ -28436,46 +9486,10 @@ export const totalRecipe = [
         "name": "Fresca",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d8067ad5-338d-43df-bc58-3006b82cfee0",
     "name": "San Francisco",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -28501,66 +9515,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5fb16c64-9eff-4d13-85f4-0b7b38092a6c",
     "name": "Space Odyssey",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -28596,56 +9554,10 @@ export const totalRecipe = [
         "name": "Cherries",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "591fc733-f4c3-4aea-a636-4ab0160107b1",
     "name": "Scotch Cobbler",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -28676,61 +9588,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": "1 ",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4c6922bc-6a88-4ab5-9b51-1f286819b832",
     "name": "Spiking coffee",
     "category": "Coffee / Tea",
     "glass": "Coffee mug",
@@ -28746,76 +9607,10 @@ export const totalRecipe = [
         "name": "Cinnamon",
         "amount": " ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "436f863a-77c2-4837-b44f-7ed0e1330c17",
     "name": "Thriller",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -28836,71 +9631,10 @@ export const totalRecipe = [
         "name": "Orange juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4fc0971b-29d1-4fc9-bf28-1fe42f08bee7",
     "name": "Tia-Maria",
     "category": "Homemade Liqueur",
     "glass": "Collins Glass",
@@ -28931,61 +9665,10 @@ export const totalRecipe = [
         "name": "Vanilla extract",
         "amount": "4 tsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "258670d2-2f36-4d07-93f5-1815413adf29",
     "name": "Tipperary",
     "category": "Cocktail",
     "glass": "Nick and Nora Glass",
@@ -29006,71 +9689,10 @@ export const totalRecipe = [
         "name": "Green Chartreuse",
         "amount": "1/2 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a7523787-2df3-4a38-af1c-e0681ae75eb7",
     "name": "Turkeyball",
     "category": "Shot",
     "glass": "Shot glass",
@@ -29091,71 +9713,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 splash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9c3d9e19-5ab2-426d-94a7-ca06a4732567",
     "name": "Tom Collins",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -29191,56 +9752,10 @@ export const totalRecipe = [
         "name": "Orange",
         "amount": "1 ",
         "ingDescription": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the percentage of pomelo genes varying from ~50% to 6% have been reported.\r\n\r\nSweet oranges were mentioned in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.\r\n\r\nIn 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China and India."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "be087af5-8e5b-4cdb-b32b-a9f39110817a",
     "name": "Tomato Tang",
     "category": "Other/Unknown",
     "glass": "Highball glass",
@@ -29261,71 +9776,10 @@ export const totalRecipe = [
         "name": "Celery salt",
         "amount": "1 dash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "957ca79b-baee-434e-85a6-b1dca2dcef54",
     "name": "Thai Coffee",
     "category": "Coffee / Tea",
     "glass": "Highball glass",
@@ -29361,56 +9815,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "26149c80-111b-435d-a3cb-454306b79380",
     "name": "Texas Sling",
     "category": "Milk / Float / Shake",
     "glass": "Wine Glass",
@@ -29441,61 +9849,10 @@ export const totalRecipe = [
         "name": "Cream",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "1535f5e8-9483-4c2c-acac-85c542fdbbda",
     "name": "Tequila Fizz",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -29526,61 +9883,10 @@ export const totalRecipe = [
         "name": "Ginger ale",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2df8fb40-69ba-4be3-a805-6c44ef49d0fb",
     "name": "Tequila Sour",
     "category": "Ordinary Drink",
     "glass": "Whiskey sour glass",
@@ -29611,61 +9917,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "178ea409-c3cb-4e02-9aa8-8936a1c40342",
     "name": "Talos Coffee",
     "category": "Coffee / Tea",
     "glass": "Brandy snifter",
@@ -29681,76 +9936,10 @@ export const totalRecipe = [
         "name": "Coffee",
         "amount": "1 part ",
         "ingDescription": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and more hardy robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.\r\n\r\nCoffee is slightly acidic and can have a stimulating effect on humans because of its caffeine content. Coffee is one of the most popular drinks in the world. It can be prepared and presented in a variety of ways (e.g., espresso, French press, cafe latte, etc.). It is usually served hot, although iced coffee is also served. Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption inhibits cognitive decline during aging or lowers the risk of some forms of cancer.\r\n\r\nThe earliest credible evidence of coffee-drinking appears in the middle of the 15th century in the Sufi shrines of Yemen. It was here in Arabia that coffee seeds were first roasted and brewed in a similar way to how it is now prepared. Coffee seeds were first exported from East Africa to Yemen, as the coffea arabica plant is thought to have been indigenous to the former. Yemeni traders took coffee back to their homeland and began to cultivate the seed. By the 16th century, it had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.\r\n\r\nCoffee is a major export commodity: it is the top agricultural export for numerous countries and is among the world's largest legal agricultural exports. It is one of the most valuable commodities exported by developing countries. Green (unroasted) coffee is one of the most traded agricultural commodities in the world. Some controversy is associated with coffee cultivation and the way developed countries trade with developing nations and the impact of its cultivation on the environment, in regards to clearing of land for coffee-growing and water use. Consequently, the markets for fair trade coffee and organic coffee are expanding."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b8e77ec4-8343-429f-86bf-8ede6da343d5",
     "name": "Tennesee Mud",
     "category": "Coffee / Tea",
     "glass": "Coffee Mug",
@@ -29776,66 +9965,10 @@ export const totalRecipe = [
         "name": "Whipped cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9f4d62c4-5396-4ddb-9e15-e48751b8e405",
     "name": "Turf Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -29866,61 +9999,10 @@ export const totalRecipe = [
         "name": "Orange peel",
         "amount": "Twist of ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e5c93f8b-0417-425c-a07c-ac8421a595c4",
     "name": "Thai Iced Tea",
     "category": "Coffee / Tea",
     "glass": "Highball glass",
@@ -29951,61 +10033,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": " ",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "fad66e7a-0795-4771-a698-622496401cf9",
     "name": "The Last Word",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -30026,71 +10057,10 @@ export const totalRecipe = [
         "name": "Lime Juice",
         "amount": "1 oz",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e08d1a07-9238-479c-ab53-dca5f63bf318",
     "name": "The Laverstoke",
     "category": "Cocktail",
     "glass": "Balloon Glass",
@@ -30131,51 +10101,10 @@ export const totalRecipe = [
         "name": "Mint",
         "amount": "1 Large Sprig",
         "ingDescription": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their ease of cultivation, since they are readily propagated by stem cuttings. Besides those grown for their edible leaves, some are grown for decorative foliage, such as Coleus. Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).\r\n\r\nThe family has a cosmopolitan distribution. The enlarged Lamiaceae contains about 236 genera and has been stated to contain 6,900 to 7,200 species, but the World Checklist lists 7,534. The largest genera are Salvia (900), Scutellaria (360), Stachys (300), Plectranthus (300), Hyptis (280), Teucrium (250), Vitex (250), Thymus (220), and Nepeta (200). Clerodendrum was once a genus of over 400 species, but by 2010, it had been narrowed to about 150.\r\n\r\nThe family has traditionally been considered closely related to the Verbenaceae; in the 1990s, phylogenetic studies suggested that many genera classified in the Verbenaceae should be classified in the Lamiaceae  or to other families in the order Lamiales.\r\n\r\nThe alternate family name Labiatae refers to the fact that the flowers typically have petals fused into an upper lip and a lower lip (labia in Latin). The flowers are bilaterally symmetrical with five united petals and five united sepals. They are usually bisexual and verticillastrate (a flower cluster that looks like a whorl of flowers, but actually consists of two crowded clusters). Although this is still considered an acceptable alternative name, most botanists now use the name Lamiaceae in referring to this family. The leaves emerge oppositely, each pair at right angles to the previous one (decussate) or whorled. The stems are frequently square in cross section, but this is not found in all members of the family, and is sometimes found in other plant families."
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "414435e4-41f9-4897-a78b-21efb6863c56",
     "name": "Tuxedo Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -30211,56 +10140,10 @@ export const totalRecipe = [
         "name": "Cherry",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "faca8cf0-b169-43f5-b4ee-8981d437ea1d",
     "name": "Tequila Sunrise",
     "category": "Cocktail",
     "glass": "Highball glass",
@@ -30281,71 +10164,10 @@ export const totalRecipe = [
         "name": "Grenadine",
         "amount": "",
         "ingDescription": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nAs grenadine is subject to minimal regulation, its basic flavour profile can alternatively be obtained from a mixture of blackcurrant juice and other fruit juices with the blackcurrant flavour dominating.\r\n\r\nTo reduce production costs, manufacturers have widely replaced fruit bases with artificial ingredients. The Mott's brand \"Rose's\" is by far the most common brand of grenadine sold in the United States,[3] and is formulated from (in order of concentration): high fructose corn syrup, water, citric acid, sodium citrate, sodium benzoate, FD&C Red #40, natural and artificial flavours and FD&C Blue #1. In Europe, Bols still manufactures grenadine with pomegranate."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "87550087-e4dc-40f8-94bc-1148e35e5eab",
     "name": "Tequila Slammer",
     "category": "Shot",
     "glass": "Hurricane glass",
@@ -30361,76 +10183,10 @@ export const totalRecipe = [
         "name": "7-up",
         "amount": "1 part",
         "ingDescription": "7 Up (stylized as 7up outside of the U.S.) is a brand of lemon-lime flavored, non-caffeinated soft drink. The rights to the brand are held by Dr Pepper Snapple Group in the United States, and PepsiCo (or its licensees) in the rest of the world. The U.S. version of the 7 Up logo includes a red cherry between the \"7\" and \"Up\"; this red cherry has been animated and used as a mascot for the brand as Cool Spot.\r\n\r\n7 Up was created by Charles Leiper Grigg, who launched his St. Louis–based company The Howdy Corporation in 1920.[1] Grigg came up with the formula for a lemon-lime soft drink in 1929. The product, originally named \"Bib-Label Lithiated Lemon-Lime Soda\", was launched two weeks before the Wall Street Crash of 1929.[2] It contained lithium citrate, a mood-stabilizing drug, until 1950.[3] It was one of a number of patent medicine products popular in the late-19th and early-20th centuries. Its name was later shortened to \"7 Up Lithiated Lemon Soda\" before being further shortened to just \"7 Up\" by 1936.\r\n\r\nWestinghouse bought 7 Up in 1969 and sold it in 1978 to Philip Morris, who then in 1986 sold it to a group led by the investment firm Hicks & Haas.[4] 7 Up merged with Dr Pepper in 1988; Cadbury Schweppes bought the combined company in 1995. The Dr Pepper Snapple Group was spun off from Cadbury Schweppes in 2008.\r\n\r\n7 Up has been reformulated several times since its launch in 1929. In 2006, the version of the product sold in the U.S. was re-formulated so that it could be marketed as being \"100% natural\". This was achieved by eliminating the chelating-agent calcium disodium EDTA, and replacing sodium citrate with potassium citrate in order to reduce the beverage's sodium content.[5] This re-formulation contains no fruit juice and, in the U.S., is sweetened with high-fructose corn syrup (HFCS). The manufacturing process used in the production of HFCS has led some public health and advocacy groups to challenge the ad campaign's \"natural\" claims.[6] In 2007, after the Center for Science in the Public Interest threatened to sue 7 Up, it was announced that 7 Up would stop being marketed as \"100% natural\". Instead, it is now promoted as having \"100% Natural Flavors\". The controversy does not extend to other countries, such as the United Kingdom, where HFCS is not generally used in foods, including 7 Up. In 2011, 7 Up began test-marketing a formula, called 7 Up Retro, using sugar rather than HFCS. Container labels sport the caption, \"Made With Real Sugar\".\r\n\r\nThere exists a myth that the 7 Up name comes from the drink having a pH over 7. That would make it neutral or basic on the scale; however, this is not the case, as the 7 Up pH is close to 3.79, similar to other drinks of the type.[7] The real origin of the name is unclear,[8] though Britvic claims that the name comes from the seven main ingredients in the drink,[9] while others have claimed that the number was a coded reference to the lithium contained in the original recipe, which has an atomic mass of approximately 7."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "42000d29-64b2-4550-af46-c83dde54e8ac",
     "name": "Thai Iced Coffee",
     "category": "Coffee / Tea",
     "glass": "Highball glass",
@@ -30456,66 +10212,10 @@ export const totalRecipe = [
         "name": "Cardamom",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "4bf22d7f-9f6c-4b68-9bcf-0a163ab0c94d",
     "name": "Tequila Surprise",
     "category": "Shot",
     "glass": "Shot glass",
@@ -30531,76 +10231,10 @@ export const totalRecipe = [
         "name": "Tabasco sauce",
         "amount": "About 8 drops ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "37579d21-bdfd-44bc-aa8f-def4cbddbde6",
     "name": "The Jimmy Conway",
     "category": "Cocktail",
     "glass": "Whiskey sour glass",
@@ -30621,71 +10255,10 @@ export const totalRecipe = [
         "name": "Cranberry Juice",
         "amount": "4 oz",
         "ingDescription": "Cranberry juice is the juice of the cranberry. The term, used on its own, usually refers to a sweetened version.\r\n\r\nA cup of standard 100% cranberry juice, amounting to 248 grams or 8 ounces, is a rich source of antioxidants, vitamin C and salicylic acid. It also supplies calcium, magnesium, manganese, phosphorus, and potassium minerals. Cranberry juice is classified as an acidic drink with a typical pH between 2.3 and 2.5.\r\n\r\nIn 2010 a study conducted by the Worcester Polytechnic Institute in Massachusetts found that the ingredients in cranberry juice limit the ability of E. coli bacteria (the main cause of UTIs) to cling to other bacteria. Without other bacteria, E. coli's ability to grow and reproduce is limited. The researchers concluded that cranberry juice helps prevent UTIs, but stopped short of saying the juice cures them. According to WebMD, which reported on the study, study researcher Terri Anne Camesano said people should not self-treat urinary tract infections, and anyone who suspects they have an infection should see a doctor, but drinking cranberry juice may be an easy, inexpensive way to help keep E. coli at bay.\r\n\r\nThere is some evidence that although long-term use of cranberry juice can help prevent symptomatic urinary tract infections, people do not persist in taking it over long periods.[4] There is no significant difference between cranberry juices and capsules. It is thought to prevent adhesion of bacteria such as E. coli to the urinary tract, by inducing changes to their fimbriae.\r\n\r\nThe proanthocyanidins found in cranberry juice can prevent bacteria from adhering to the epithelial tissue that line many interior parts of the human body. These adhering bacteria can cause breakdown and inflammation of the epithelial lining of the urinary tract, leading to urinary tract infections.\r\n"
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "3d3d0be1-6cc3-45d3-b149-d94c8d64f28b",
     "name": "Texas Rattlesnake",
     "category": "Shot",
     "glass": "Highball glass",
@@ -30711,66 +10284,10 @@ export const totalRecipe = [
         "name": "Sweet and sour",
         "amount": "1 splash ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e1b174fa-c5b0-40d6-bf09-088cbed7f907",
     "name": "Tommy's Margarita",
     "category": "Ordinary Drink",
     "glass": "Old-Fashioned glass",
@@ -30791,71 +10308,10 @@ export const totalRecipe = [
         "name": "Agave syrup",
         "amount": "2 spoons",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c08dfab6-d0a2-4e48-95f1-038db5553a7f",
     "name": "The Evil Blue Thing",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -30876,74 +10332,11 @@ export const totalRecipe = [
         "name": "Light rum",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
+  null,
   {
-    "ingredients": null
-  },
-  {
-    "id": "ce787d16-2b8d-422a-98ea-e9d561e033a6",
     "name": "Victor",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -30964,71 +10357,10 @@ export const totalRecipe = [
         "name": "Brandy",
         "amount": "1/2 oz ",
         "ingDescription": "Brandy is a spirit produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically taken as an after-dinner drink. Some brandies are aged in wooden casks, some are coloured with caramel colouring to imitate the effect of aging, and some brandies are produced using a combination of both aging and colouring.\r\n\r\nIn broader sense, the term \"brandy\" also denotes liquors obtained from distillation of pomace (pomace brandy) or mash or wine of any other fruit (fruit brandy). These products are also named eaux-de-vie.\r\n\r\nVarieties of wine brandy can be found across the winemaking world. Among the most renowned are Cognac and Armagnac from southwestern France.\r\n\r\nThe origins of brandy were clearly tied to the development of distillation. While the process was known in classical times, it wasn't used for significant beverage production until the 15th century.\r\n\r\nInitially wine was distilled as a preservation method and as a way to make it easier for merchants to transport. It is also thought that wine was originally distilled to lessen the tax which was assessed by volume. The intent was to add the water removed by distillation back to the brandy shortly before consumption. It was discovered that after having been stored in wooden casks, the resulting product had improved over the original distilled spirit. In addition to removing water, the distillation process led to the formation and decomposition of numerous aromatic compounds, fundamentally altering the composition of the distillate from its source. Non-volatile substances such as pigments, sugars, and salts remained behind in the still. As a result, the taste of the distillate was often quite unlike that of the original source.\r\n\r\nAs described in the 1728 edition of Cyclopaedia, the following method was used to distill brandy:\r\n\r\nA cucurbit was filled half full of the liquor from which brandy was to be drawn and then raised with a little fire until about one sixth part was distilled, or until that which falls into the receiver was entirely flammable. This liquor, distilled only once, was called spirit of wine or brandy. Purified by another distillation (or several more), this was then called spirit of wine rectified. The second distillation was made in balneo mariae and in a glass cucurbit, and the liquor was distilled to about one half the quantity. This was further rectified—as long as the operator thought necessary—to produce brandy.\r\n\r\nTo shorten these several distillations, which were long and troublesome, a chemical instrument was invented that reduced them to a single distillation. To test the purity of the rectified spirit of wine, a portion was ignited. If the entire contents were consumed by a fire without leaving any impurities behind, then the liquor was good. Another, better test involved putting a little gunpowder in the bottom of the spirit. If the gunpowder could ignite after the spirit was consumed by fire, then the liquor was good.\r\n\r\nAs most brandies have been distilled from grapes, the regions of the world producing excellent brandies have roughly paralleled those areas producing grapes for viniculture. At the end of the 19th century, the western European markets, including by extension their overseas empires, were dominated by French and Spanish brandies and eastern Europe was dominated by brandies from the Black Sea region, including Bulgaria, the Crimea, and Georgia. In 1884, David Sarajishvili founded his brandy factory in Tbilisi, Georgia, a crossroads for Turkish, Central Asian, and Persian trade routes and a part of the Russian Empire at the time. Armenian and Georgian brandies, called cognacs in the era, were considered some of the best in the world and often beat their French competitors at the International Expositions in Paris and Brussels in the early 1900s.[citation needed] The storehouses of the Romanov Court in St. Petersburg were regarded as the largest collections of cognacs and wines in the world with much of it from the Transcaucasus region of Georgia. During the October Revolution of 1917, upon the storming of the Winter Palace, the Bolshevik Revolution actually paused for a week or so as the participants gorged on the substantial stores of cognac and wines. The Russian market was always a huge brandy-consuming region in which home-grown varieties were common but much of it was imported. The patterns of bottles followed that of the western European norm. Throughout the Soviet era, the production of brandy was a source of pride for the communist regime as they continued to produce some excellent varieties, especially the most famous Jubilee Brandies of 1967, 1977, and 1987.[citation needed] Remaining bottles of these productions are highly sought after, not simply for their quality, but for their historical significance."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c5a667e5-bd92-4ba9-abef-bda75dca3049",
     "name": "Vesper",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -31049,71 +10381,10 @@ export const totalRecipe = [
         "name": "Lillet Blanc",
         "amount": "0.75 cl",
         "ingDescription": "Lillet (French pronunciation: French pronunciation: ​[li'le]), classed as an aromatised wine within EU law, is a French wine-based aperitif from Podensac. It is a blend of 85% Bordeaux region wines (Semillon for the Blanc and for the Rosé, Merlot for the Rouge) and 15% macerated liqueurs, mostly citrus liqueurs (peels of sweet oranges from Spain and Morocco and peels of bitter green oranges from Haiti). The mix is then stirred in oak vats until blended. During the aging process, Lillet is handled as a Bordeaux wine (undergoing fining, racking, filtering etc.).\r\n\r\nIn the original Kina Lillet formulation (so named with respect to its status as a quinquina), quinine liqueur made of cinchona bark from Peru was included among its ingredients. Its manufacturers removed the quinine-containing cinchona bark from their recipe in 1985, drastically altering what was the core bitter element in an effort to keep pace with changing preferences. It seems that the above has changed; quoting the back label of the bottle, \"Each bottle contains only the finest, carefully-selected wines, which are blended with macerated fruits and QUINQUINA, all from a secret award-winning recipe that has been passed down through generations.\" This contradicts the previous statement. \"Lillet\" belongs to a family of aperitifs known as tonic wines because of the addition of quinine liqueur."
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d71b56cf-6ec5-4c3e-b168-3122f514f0ba",
     "name": "Vesuvio",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -31144,61 +10415,10 @@ export const totalRecipe = [
         "name": "Egg white",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d5b742f1-968a-4e7c-b40d-d1db6010b20a",
     "name": "Veteran",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -31214,76 +10434,10 @@ export const totalRecipe = [
         "name": "Cherry brandy",
         "amount": "1/2 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d7e2a296-ea72-4a91-ab84-329351db41d8",
     "name": "Vampiro",
     "category": "Ordinary Drink",
     "glass": "Old-Fashioned glass",
@@ -31319,56 +10473,10 @@ export const totalRecipe = [
         "name": "Salt",
         "amount": "1 pinch",
         "ingDescription": "Table salt or common salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt or halite. Salt is present in vast quantities in seawater, where it is the main mineral constituent. The open ocean has about 35 grams (1.2 oz) of solids per litre, a salinity of 3.5%.\r\n\r\nSalt is essential for life in general, and saltiness is one of the basic human tastes. The tissues of animals contain larger quantities of salt than do plant tissues. Salt is one of the oldest and most ubiquitous food seasonings, and salting is an important method of food preservation.\r\n\r\nSome of the earliest evidence of salt processing dates to around 8,000 years ago, when people living in the area of present-day Romania boiled spring water to extract salts; a salt-works in China dates to approximately the same period. Salt was also prized by the ancient Hebrews, the Greeks, the Romans, the Byzantines, the Hittites, Egyptians, and the Indians. Salt became an important article of trade and was transported by boat across the Mediterranean Sea, along specially built salt roads, and across the Sahara on camel caravans. The scarcity and universal need for salt have led nations to go to war over it and use it to raise tax revenues. Salt is used in religious ceremonies and has other cultural significance.\r\n\r\nSalt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools. Its major industrial products are caustic soda and chlorine; salt is used in many industrial processes including the manufacture of polyvinyl chloride, plastics, paper pulp and many other products. Of the annual global production of around two hundred million tonnes of salt, only about 6% is used for human consumption. Other uses include water conditioning processes, de-icing highways, and agricultural use. Edible salt is sold in forms such as sea salt and table salt which usually contains an anti-caking agent and may be iodised to prevent iodine deficiency. As well as its use in cooking and at the table, salt is present in many processed foods.\r\n\r\nSodium is an essential nutrient for human health via its role as an electrolyte and osmotic solute. Excessive salt consumption may increase the risk of cardiovascular diseases, such as hypertension, in children and adults. Such health effects of salt have long been studied. Accordingly, numerous world health associations and experts in developed countries recommend reducing consumption of popular salty foods. The World Health Organization recommends that adults should consume less than 2,000 mg of sodium, equivalent to 5 grams of salt per day."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7266ab40-e909-41ec-994f-89b52fb86937",
     "name": "Van Vleet",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -31389,71 +10497,10 @@ export const totalRecipe = [
         "name": "Lemon juice",
         "amount": "1 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7684b9f5-e786-4870-81ea-6d98f16e501e",
     "name": "Vodka Fizz",
     "category": "Other/Unknown",
     "glass": "White wine glass",
@@ -31484,61 +10531,10 @@ export const totalRecipe = [
         "name": "Nutmeg",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a7b3da47-6614-43b0-b7c4-ba4805d7d0aa",
     "name": "Vodka Martini",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -31559,71 +10555,10 @@ export const totalRecipe = [
         "name": "Olive",
         "amount": "1 ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d64c254c-ea2d-4b78-97ad-969c25595455",
     "name": "Vodka Russian",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -31639,76 +10574,10 @@ export const totalRecipe = [
         "name": "Schweppes Russchian",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "128c8612-db41-4e57-95be-ad0455bd0794",
     "name": "Vermouth Cassis",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -31729,71 +10598,10 @@ export const totalRecipe = [
         "name": "Carbonated water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "02a089cf-f55a-4d4b-bbd0-7ef31e11d209",
     "name": "Victory Collins",
     "category": "Ordinary Drink",
     "glass": "Collins glass",
@@ -31824,61 +10632,10 @@ export const totalRecipe = [
         "name": "Orange",
         "amount": "1 slice ",
         "ingDescription": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a simple backcrossed BC1 hybrid, but hybridized over multiple generations. The chloroplast genes, and therefore the maternal line, seem to be pomelo. The sweet orange has had its full genome sequenced. Earlier estimates of the percentage of pomelo genes varying from ~50% to 6% have been reported.\r\n\r\nSweet oranges were mentioned in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.\r\n\r\nIn 2014, 70.9 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total followed by China and India."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2537d403-563f-4e8a-97bc-c73d7ae5a624",
     "name": "Vodka And Tonic",
     "category": "Ordinary Drink",
     "glass": "Highball glass",
@@ -31894,76 +10651,10 @@ export const totalRecipe = [
         "name": "Tonic water",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "a0e0f702-630c-47f1-a9b5-cd6cae74f720",
     "name": "Valencia Cocktail",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -31984,71 +10675,10 @@ export const totalRecipe = [
         "name": "Orange bitters",
         "amount": "2 dashes ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "e07b1733-e4f7-4d55-bbaf-7d4c8b62ac6b",
     "name": "Whisky Mac",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -32064,76 +10694,10 @@ export const totalRecipe = [
         "name": "Wine",
         "amount": "1 oz Green Ginger ",
         "ingDescription": "Wine (from Latin vinum) is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients.\r\n\r\nYeast consumes the sugar in the grapes and converts it to ethanol and carbon dioxide. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the terroir, and the production process. Many countries enact legal appellations intended to define styles and qualities of wine. These typically restrict the geographical origin and permitted varieties of grapes, as well as other aspects of wine production. Wines not made from grapes include rice wine and fruit wines such as plum, cherry, pomegranate and elderberry.\r\n\r\nWine has been produced for thousands of years. The earliest known traces of wine are from China (c. 7000 BC), Georgia (c. 6000 BC), Iran (c. 5000 BC), and Sicily (c. 4000 BC). The earliest known winery is the 6,100-year-old Areni-1 winery in Armenia. Wine reached the Balkans by 4500 BC and was consumed and celebrated in ancient Greece, Thrace and Rome. Throughout history, wine has been consumed for its intoxicating effects.\r\n\r\nWine has long played an important role in religion. Red wine was associated with blood by the ancient Egyptians and was used by both the Greek cult of Dionysus and the Romans in their Bacchanalia; Judaism also incorporates it in the Kiddush and Christianity in the Eucharist."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b5d07718-0dd9-4aa2-b02f-ea2fff5c32a3",
     "name": "Wine Punch",
     "category": "Punch / Party Drink",
     "glass": "Collins Glass",
@@ -32164,61 +10728,10 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 cup ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "41926044-d50e-4441-a69f-a66edd3dd05d",
     "name": "White Lady",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -32239,71 +10752,10 @@ export const totalRecipe = [
         "name": "Lemon Juice",
         "amount": "2cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "5b3ed3e1-f09b-4892-9971-28cc81994bc6",
     "name": "Wine Cooler",
     "category": "Punch / Party Drink",
     "glass": "Collins Glass",
@@ -32324,71 +10776,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "826e6836-3094-4f82-a618-e8fea46d3b50",
     "name": "Whiskey Sour",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -32419,61 +10810,10 @@ export const totalRecipe = [
         "name": "Lemon",
         "amount": "1/2 slice ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7a0f6bbf-24a9-4fd2-b5e8-4cbafcbce5aa",
     "name": "White Russian",
     "category": "Ordinary Drink",
     "glass": "Old-fashioned glass",
@@ -32494,71 +10834,10 @@ export const totalRecipe = [
         "name": "Light cream",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "74ab9301-90a0-4f52-86da-3892520520c7",
     "name": "Whitecap Margarita",
     "category": "Other/Unknown",
     "glass": "Margarita/Coupette glass",
@@ -32584,66 +10863,10 @@ export const totalRecipe = [
         "name": "Lime juice",
         "amount": "3 tblsp fresh ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "635aa268-0cd2-4a9e-89b0-6f9f2a6822f2",
     "name": "Waikiki Beachcomber",
     "category": "Ordinary Drink",
     "glass": "Cocktail glass",
@@ -32664,74 +10887,11 @@ export const totalRecipe = [
         "name": "Pineapple juice",
         "amount": "1 tblsp ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
+  null,
   {
-    "ingredients": null
-  },
-  {
-    "id": "d8022268-1f96-43a9-8829-a840ab36de0c",
     "name": "Yellow Bird",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -32757,66 +10917,10 @@ export const totalRecipe = [
         "name": "Lime Juice",
         "amount": "1.5 cl",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "120b0315-6983-472a-be5a-c413d6c701d1",
     "name": "Yoghurt Cooler",
     "category": "Other/Unknown",
     "glass": "Highball Glass",
@@ -32837,71 +10941,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "f03d3ab2-0d6c-4f88-bdb2-c5ab4d497a82",
     "name": "Zorro",
     "category": "Coffee / Tea",
     "glass": "Coffee Mug",
@@ -32922,71 +10965,10 @@ export const totalRecipe = [
         "name": "White Creme de Menthe",
         "amount": "2 cl ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "2ea0bf49-9d51-4200-96e3-bfbd1e183cf9",
     "name": "Zinger",
     "category": "Soft Drink / Soda",
     "glass": "Highball glass",
@@ -33002,76 +10984,10 @@ export const totalRecipe = [
         "name": "Surge",
         "amount": "4 shots ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d14a7c3a-fdc6-40db-ab05-a268ff145942",
     "name": "Zoksel",
     "category": "Soft Drink / Soda",
     "glass": "Beer pilsner",
@@ -33112,51 +11028,10 @@ export const totalRecipe = [
         "name": "Lemon",
         "amount": "\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "d96aaf8d-e03c-4cbf-b7f9-f4cbd6ec925d",
     "name": "Zombie",
     "category": "Cocktail",
     "glass": "Hurricane glass",
@@ -33197,51 +11072,10 @@ export const totalRecipe = [
         "name": "Angostura Bitters",
         "amount": "1 drop",
         "ingDescription": "Angostura bitters (English: /æŋɡəˈstjʊərə/) is a concentrated bitters, or botanically infused alcoholic mixture, made of water, 44.7% ethanol, gentian, herbs and spices by House of Angostura in Trinidad and Tobago. It is typically used for flavouring beverages or (less often) food. The bitters were first produced in the town of Angostura (Ciudad Bolívar, Venezuela) (hence the name), but do not contain angostura bark. The bottle is easily recognisable by its distinctive oversized label.\r\n\r\nThe recipe was developed as a tonic by a German, Johann Gottlieb Benjamin Siegert (1796–1870), surgeon general in Simón Bolívar's army in Venezuela. Siegert began to sell it in 1824 and established a distillery for the purpose in 1830. Siegert was based in the town of Angostura, now Ciudad Bolívar, and used locally available ingredients, perhaps aided by botanical knowledge of the local Amerindians. The product was sold abroad from 1853, and in 1875 the plant was moved from Ciudad Bolivar to Port of Spain, Trinidad, where it remains. Angostura won a medal at the Weltausstellung 1873 Wien. The medal is still depicted on the oversized label, along with reverse which shows Emperor Franz Joseph I of Austria in profile.\r\n\r\nThe exact formula is a closely guarded secret, with only one person knowing the whole recipe, passed hereditarily.\r\n\r\nAngostura bitters are extremely concentrated and are an acquired taste; though 44.7% alcohol by volume, bitters are not normally ingested undiluted, but instead are used in small amounts as flavouring.\r\n\r\nAngostura bitters are a key ingredient in many cocktails. Originally used to help with upset stomachs of the soldiers in the Simón Bolívar army, it later became popular in soda water and was usually served with gin. The mix stuck in the form of a pink gin, and is also used in many other alcoholic cocktails such as long vodka, consisting of vodka, Angostura bitters, and lemonade. In the United States, it is best known for its use in whiskey cocktails: the Old Fashioned, made with whiskey, bitters, sugar, and water,[8] and the Manhattan, made usually with rye whiskey and sweet vermouth. In a Pisco Sour a few drops are sprinkled on top of the foam, both for aroma and decoration. In a Champagne Cocktail a few drops of bitters are added to a sugar cube.\r\n\r\nIn Hong Kong, Angostura bitters are included in the local Gunner cocktail. Though not in the classic recipe, bartenders sometimes add more flavour to the Mojito cocktail by sprinkling a few drops of Angostura bitters on top. Bitters can also be used in \"soft\" drinks; a common drink served in Australian and New Zealand pubs is lemon lime and bitters.\r\n\r\nAngostura Bitters Drink Guide, a promotional booklet of 1908, was reprinted in 2008 with a new introduction by Ross Bolton."
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
-      },
-      {
-        "name": null,
-        "amount": null,
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "c099bea1-86c2-4712-9fc5-fda9e650e812",
     "name": "Zambeer",
     "category": "Soft Drink / Soda",
     "glass": "Collins Glass",
@@ -33262,71 +11096,10 @@ export const totalRecipe = [
         "name": "Ice",
         "amount": " cubes\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "72bd0465-fa90-41fb-b64a-41cc4a13cdc8",
     "name": "Zorbatini",
     "category": "Cocktail",
     "glass": "Cocktail glass",
@@ -33342,76 +11115,10 @@ export const totalRecipe = [
         "name": "Ouzo",
         "amount": "1/4 oz ",
         "ingDescription": "Ouzo (Greek: ούζο, IPA: [ˈuzo]) is an anise-flavoured aperitif that is widely consumed in Greece and Cyprus. Its taste is similar to other anise liquors like pastis, sambuca, arak, rakı, and mastika, that are traditionally produced and consumed in Mediterranean countries.\r\n\r\nOuzo has its roots in tsipouro, which is said to have been the work of a group of 14th-century monks on Mount Athos. One version of it was flavoured with anise. This version eventually came to be called ouzo.\r\n\r\nModern ouzo distillation largely took off in the beginning of the 19th century following Greek independence. The first ouzo distillery was founded in Tyrnavos in 1856 by Nikolaos Katsaros, giving birth to the famous ouzo Tyrnavou. When absinthe fell into disfavour in the early 20th century, ouzo was one of the products whose popularity rose to fill the gap; it was once called \"a substitute for absinthe without the wormwood\".[2] In 1932, ouzo producers developed a method of distillation using copper stills that is now the standard method of production. One of the largest producers of ouzo today is Varvayiannis (Βαρβαγιάννης),[citation needed] located in the town of Plomari in the southeast portion of the island of Lesbos, while in the same town Pitsiladi (Πιτσιλαδή), a variety of high-quality ouzo, is also distilled.\r\n\r\nOuzo is traditionally mixed with water, becoming cloudy white, sometimes with a faint blue tinge, and served with ice cubes in a small glass. Ouzo can also be drunk straight from a shot glass.\r\n\r\nOuzo is traditionally served with a small plate of a variety of appetizers called mezes, usually small fresh fish, fries, olives and feta cheese. Ouzo can be described to have a similar taste to absinthe which is liquorice-like, but smoother.\r\n\r\nOn October 25, 2006, Greece won the right to label ouzo as an exclusively Greek product. The European Union now recognizes ouzo, as well as the Greek drinks tsipouro and tsikoudia, as products with a Protected Designation of Origin, which prohibits European makers other than Greece and Cyprus from using the name.\r\n\r\nThere is an ouzo museum in Plomari, Lesvos."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "9e81defe-144e-43d4-8087-0300aeb57eaa",
     "name": "Zenmeister",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -33427,76 +11134,10 @@ export const totalRecipe = [
         "name": "Root beer",
         "amount": "1/2 oz ",
         "ingDescription": "Root beer is a sweet North American soft drink traditionally made using the sassafras tree Sassafras albidum (sassafras) or the vine Smilax ornata (sarsaparilla) as the primary flavor. Root beer may be alcoholic or non-alcoholic, come naturally free of caffeine or have caffeine added, and carbonated or non-carbonated. It usually has a thick, foamy head when poured. Modern, commercially produced root beer is generally sweet, foamy, carbonated, nonalcoholic, and flavoured using artificial sassafras flavouring. Sassafras root is still used to flavor traditional root beer, but since sassafras was banned by the U.S. Food and Drug Administration due to the controversially claimed carcinogenicity of its constituent safrole, most commercial recipes do not contain sassafras. Some commercial root beers do use a safrole-free sassafras extract."
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "40aef62b-242b-4f6a-92bc-67f5aa727f9b",
     "name": "Zipperhead",
     "category": "Shot",
     "glass": "Whiskey sour glass",
@@ -33517,71 +11158,10 @@ export const totalRecipe = [
         "name": "Soda water",
         "amount": "Fill with ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b2e32114-2af8-45cf-857e-60dd9722c92a",
     "name": "Zima Blaster",
     "category": "Ordinary Drink",
     "glass": "Hurricane glass",
@@ -33597,76 +11177,10 @@ export const totalRecipe = [
         "name": "Chambord raspberry liqueur",
         "amount": "3 oz ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bd5df8e8-4e87-42eb-b28b-9c779e7c6846",
     "name": "Zizi Coin-coin",
     "category": "Punch / Party Drink",
     "glass": "Margarita/Coupette glass",
@@ -33692,66 +11206,10 @@ export const totalRecipe = [
         "name": "Lemon",
         "amount": " or lime\n",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "\n",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "bff3c581-bfc9-4a01-bb6e-a1bdf6be3ab2",
     "name": "Zippy's Revenge",
     "category": "Cocktail",
     "glass": "Old-fashioned glass",
@@ -33772,71 +11230,10 @@ export const totalRecipe = [
         "name": "Kool-Aid",
         "amount": "4 oz Grape ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "7f820d36-ddc1-439d-b896-bda35139bcef",
     "name": "Zimadori Zinger",
     "category": "Punch / Party Drink",
     "glass": "Collins glass",
@@ -33852,76 +11249,10 @@ export const totalRecipe = [
         "name": "Zima",
         "amount": "12 oz ",
         "ingDescription": "Zima Clearmalt is a clear, lightly carbonated alcoholic beverage, that was made and distributed by the Coors Brewing Company. Introduced in 1993, it was marketed as an alternative to beer, an example of what is now often referred to as a cooler, with 4.7%–5.4% alcohol by volume. Its production in the United States ceased in October 2008, but it is still marketed in Japan. MillerCoors announced on June 2, 2017 that there would be a limited release of Zima. It is currently for sale for a limited time. Due to the success of the 2017 rerelease, it is likely MillerCoor will be bringing the drink back for summer 2018, but in much larger quantities.\r\n"
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   },
   {
-    "id": "b4b9c7ca-e711-4f99-b9fa-de1953707b22",
     "name": "Ziemes Martini Apfelsaft",
     "category": "Ordinary Drink",
     "glass": "Collins Glass",
@@ -33937,72 +11268,9 @@ export const totalRecipe = [
         "name": "Apple juice",
         "amount": "16 cl ",
         "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": " ",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
-      },
-      {
-        "name": "",
-        "amount": "",
-        "ingDescription": null
       }
     ]
   }
 ]
+
+module.exports = totalRecipe
