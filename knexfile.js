@@ -6,7 +6,7 @@ module.exports = {
     client: 'pg',
     connection:  'postgres://localhost/drinks',
     seeds: {
-      directory: './seeds/recipes.js'
+      directory: './seeds/'
     },
     migrations: {
       directory: './migrations'
@@ -18,7 +18,7 @@ module.exports = {
     client: 'pg',
     connection: process.env.DATABASE_URL + `?ssl=true`,
     seeds: {
-      directory: './seeds/recipes.js'
+      directory: './seeds/'
     },
     migrations: {
       directory: './migrations'
