@@ -2,7 +2,6 @@ const totalRecipe = require('../totalRecipe');
 // const ingredientDetails = require('../drinks')
 
 const createDrink = (knex, drink) => {
-  console.log(drink)
   return (
     knex('recipes')
     .insert(

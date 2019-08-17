@@ -37,9 +37,28 @@ app.get('/api/v1/recipes/', (request, response) => {
 
 app.get('/api/v1/recipes/:id', (request, response) => {
   const { id } = request.params
-  dbConnect('recipes')
-    .where({ id })
-    .then(recipe => response.json({ recipe }))
+  // dbConnect('recipe_ingredients')
+  // .where('recipe_id', id)
+  // .then(join => response.json(join))
+    // const recipe = dbConnect('recipes')
+    // .select(
+    //   'r.id',
+    //   'r.name',
+    //   'r.category',
+    //   'r.instructions',
+    //   'r.glass',
+    //   'r.image'
+    //   )
+    //   .from('recipes AS r')
+    //   .where('r.id', id)
+
+      dbConnect('ingredients')
+      .where('id', joinTable.ingredients_id)
+      .then(ingredients  => response.json({...ingredients}))
+      .then(recipe => response.json({recipe}))
+    .join('ingredients', joinData.ingredients_id, 'ingredients.')
+    .then(recipe => response.json({recipe}))
+  const ingredients = dbConnect('ingredients').where({recipe.})
 })
 
 app.post('/api/v1/drinks', (request, response) => {
